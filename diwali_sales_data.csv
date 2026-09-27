@@ -1,0 +1,501 @@
+Order_ID,User_ID,Cust_name,Gender,Age,Age_Group,Marital_Status,State,Occupation,Product_Category,Product,Price,Quantity,Discount,Purchase,Amount,Order_Date,Platform,Payment_Method
+ORD10362,1096,Pooja,F,45.0,36-45,0,Gujarat,Marketing,Footwear,Formal Shoes,592.42,4,0.1,2369.68,2132.71,2025-10-17,Myntra,Cash
+ORD10074,1158,Vikash,F,23.0,18-25,1,Karnataka,Teacher,Grocery,Oil,1621.61,5,0.2,8108.05,6486.44,2025-11-05,Amazon,Net Banking
+ORD10375,1021,Rahul,F,59.0,56-60,0,Bihar,Engineering,Clothing,Jeans,4315.93,4,0.05,17263.72,16400.53,2025-10-04,Flipkart,Cash
+ORD10156,1047,Priya,F,45.0,36-45,0,Uttar Pradesh,IT,Electronics,Smartphone,26607.14,2,0.1,53214.28,47892.85,2025-10-21,Flipkart,UPI
+ORD10105,1132,Rohan,M,55.0,46-55,1,Madhya Pradesh,Government,Books,Programming Book,828.41,3,0.2,2485.23,1988.18,2025-11-14,Myntra,Debit Card
+ORD10395,1052,Anjali,F,39.0,36-45,1,Delhi,Marketing,Food,Snacks,1895.6,5,0.15,9478.0,8056.3,2025-11-05,Amazon,UPI
+ORD10378,1165,Arjun,M,28.0,26-35,0,Tamil Nadu,Engineering,Clothing,Jeans,1080.75,5,0.05,5403.75,5133.56,2025-10-03,Offline Store,Credit Card
+ORD10125,1193,Priya,F,44.0,36-45,0,Tamil Nadu,Business,Electronics,Headphones,21158.8,1,0.05,21158.8,20100.86,2025-10-08,Amazon,UPI
+ORD10069,1146,Rohan,F,43.0,36-45,0,Karnataka,IT,Clothing,Jeans,2549.79,3,0.2,7649.37,6119.5,2025-10-04,Offline Store,Net Banking
+ORD10451,1034,Kavya,M,33.0,26-35,0,Gujarat,Healthcare,Sports,Sports Shoes,2727.75,4,0.25,10911.0,8183.25,2025-10-07,Amazon,Net Banking
+ORD10010,1115,Anjali,M,28.0,26-35,0,Rajasthan,Marketing,Footwear,Boots,2692.93,3,0.15,8078.79,6866.97,2025-10-23,Myntra,Credit Card
+ORD10195,1147,Priya,M,28.0,26-35,0,Uttar Pradesh,Marketing,Food,Gift Box,1101.15,1,0.0,1101.15,1101.15,2025-10-17,Amazon,Cash
+ORD10407,1087,Pooja,M,43.0,36-45,1,Gujarat,Teacher,Food,Sweets,903.5,5,0.05,4517.5,4291.62,2025-11-12,Amazon,Cash
+ORD10085,1077,Simran,M,50.0,46-55,0,Rajasthan,Government,Food,Sweets,1649.3,1,0.1,1649.3,1484.37,2025-10-20,Myntra,UPI
+ORD10372,1076,Pooja,F,59.0,56-60,0,Tamil Nadu,Marketing,Clothing,Shirt,3707.89,1,0.2,3707.89,2966.31,2025-10-21,Amazon,Credit Card
+ORD10389,1142,Vikash,M,40.0,36-45,1,Uttar Pradesh,Engineering,Sports,Yoga Mat,6520.26,4,0.1,26081.04,23472.94,2025-11-15,Amazon,Cash
+ORD10496,1132,Priya,F,18.0,18-25,1,West Bengal,Student,Food,Chocolates,2061.56,4,0.2,8246.24,6596.99,2025-10-05,Offline Store,Debit Card
+ORD10031,1157,Amit,M,32.0,26-35,0,Maharashtra,Finance,Furniture,Bookshelf,3655.16,4,0.15,14620.64,12427.54,2025-10-12,Meesho,UPI
+ORD10317,1087,Priya,F,36.0,36-45,0,Karnataka,Student,Food,Sweets,501.46,1,0.05,501.46,476.39,2025-10-05,Flipkart,UPI
+ORD10409,1002,Simran,M,32.0,26-35,0,Maharashtra,Finance,Books,Programming Book,180.33,5,0.1,901.65,811.48,2025-11-04,Offline Store,Credit Card
+ORD10491,1161,Anjali,M,53.0,46-55,1,Tamil Nadu,Finance,Beauty,Skincare Set,4967.67,2,0.3,9935.34,6954.74,2025-10-02,Myntra,UPI
+ORD10492,1065,Sneha,F,33.0,26-35,0,Gujarat,Healthcare,Footwear,Sandals,3407.29,3,0.05,10221.87,9710.78,2025-10-30,Amazon,UPI
+ORD10281,1160,Rohan,F,59.0,56-60,0,Maharashtra,Teacher,Books,Comics,2358.18,2,0.1,4716.36,4244.72,2025-11-05,Amazon,UPI
+ORD10357,1141,Meera,F,43.0,36-45,0,Rajasthan,Finance,Clothing,Lehenga,4866.61,1,0.1,4866.61,,2025-10-02,Myntra,Debit Card
+ORD10077,1029,Arjun,M,51.0,46-55,1,West Bengal,Government,,Badminton Set,2898.83,2,0.05,5797.66,5507.78,2025-10-22,Amazon,UPI
+ORD10462,1055,Aarav,M,19.0,18-25,1,Tamil Nadu,Finance,Footwear,Slippers,1582.03,3,0.25,4746.09,3559.57,2025-10-02,Offline Store,Cash
+ORD10498,1009,Sneha,M,50.0,46-55,1,Gujarat,Finance,Clothing,Saree,689.37,4,0.1,2757.48,2481.73,2025-11-08,Amazon,Cash
+ORD10212,1164,Shreya,M,54.0,46-55,1,,Teacher,Footwear,Boots,5223.4,4,0.2,20893.6,16714.88,2025-10-18,Flipkart,Credit Card
+ORD10102,1171,Sandeep,M,43.0,36-45,0,Tamil Nadu,Marketing,Footwear,Boots,6758.09,2,0.15,13516.18,11488.75,2025-11-05,Flipkart,UPI
+ORD10335,1093,Rahul,M,48.0,46-55,1,Madhya Pradesh,Student,Clothing,Shirt,5663.92,3,0.1,16991.76,15292.58,2025-11-03,Flipkart,Net Banking
+ORD10476,1066,Sandeep,F,57.0,56-60,0,West Bengal,IT,Decor,Cushion,704.9,4,0.1,2819.6,2537.64,2025-11-06,Amazon,UPI
+ORD10337,1109,Neha,F,25.0,26-35,1,West Bengal,Student,Grocery,Rice,1430.41,5,0.05,7152.05,6794.45,2025-11-07,Amazon,Debit Card
+ORD10441,1056,Arjun,F,25.0,26-35,1,Gujarat,Government,Clothing,Shirt,4917.85,5,0.2,24589.25,19671.4,2025-11-14,Amazon,UPI
+ORD10174,1101,Arjun,F,60.0,56-60,1,Delhi,Engineering,Electronics,Smartphone,36288.65,5,0.2,181443.25,145154.6,2025-10-03,Flipkart,UPI
+ORD10003,1059,Meera,F,39.0,36-45,1,Delhi,IT,Sports,Cricket Bat,4079.02,2,0.1,8158.04,7342.24,2025-10-04,Amazon,UPI
+ORD10334,1150,Rohan,F,51.0,46-55,1,Madhya Pradesh,Teacher,Clothing,Jeans,1409.16,3,0.05,4227.48,4016.11,2025-11-08,Meesho,Cash
+ORD10410,1122,Priya,F,48.0,46-55,1,Uttar Pradesh,Healthcare,Clothing,Shirt,3026.32,5,0.25,15131.6,11348.7,2025-10-12,Myntra,UPI
+ORD10071,1013,Priya,M,58.0,56-60,1,Bihar,Teacher,Sports,Badminton Set,8747.53,4,0.2,34990.12,27992.1,2025-10-30,Flipkart,UPI
+ORD10210,1103,Arjun,M,28.0,26-35,1,Gujarat,Finance,Electronics,Smartphone,30939.34,4,0.1,123757.36,111381.62,2025-10-05,Offline Store,UPI
+ORD10064,1011,Pooja,F,41.0,36-45,1,Bihar,Marketing,Food,Gift Box,851.05,4,0.1,3404.2,3063.78,2025-10-26,Offline Store,UPI
+ORD10385,1010,Vivaan,F,26.0,26-35,1,Maharashtra,IT,Sports,Cricket Bat,9324.17,1,0.15,9324.17,7925.54,2025-10-25,Myntra,UPI
+ORD10094,1166,Pooja,M,22.0,18-25,0,Gujarat,Government,Furniture,Table,6701.04,2,0.05,13402.08,12731.98,2025-11-06,Offline Store,Net Banking
+ORD10486,1038,Sneha,M,55.0,46-55,1,Tamil Nadu,Teacher,Books,Comics,2318.22,1,0.1,2318.22,2086.4,2025-10-16,Amazon,Cash
+ORD10186,1187,Neha,F,58.0,56-60,0,Bihar,Marketing,Footwear,Slippers,2388.35,3,0.0,7165.05,7165.05,2025-11-13,Offline Store,Credit Card
+ORD10034,1122,Karan,M,48.0,46-55,1,Gujarat,Engineering,Decor,Decorative Set,4620.25,2,0.2,9240.5,7392.4,2025-11-11,Offline Store,Credit Card
+ORD10078,1084,Priya,M,31.0,26-35,1,Gujarat,Student,Clothing,Lehenga,4315.25,4,0.2,17261.0,13808.8,2025-10-12,Offline Store,UPI
+ORD10001,1157,Pooja,F,45.0,36-45,1,Maharashtra,Finance,Food,Dry Fruits,911.31,5,0.2,4556.55,3645.24,2025-10-10,Myntra,Debit Card
+ORD10012,1001,Rahul,M,23.0,18-25,0,Maharashtra,IT,Decor,Lights,1465.09,5,0.0,7325.45,7325.45,2025-11-03,Meesho,Credit Card
+ORD10416,1184,Meera,M,25.0,26-35,0,Uttar Pradesh,Homemaker,Beauty,Skincare Set,418.81,3,0.15,1256.43,1067.97,2025-10-13,Offline Store,UPI
+ORD10023,1134,Kavya,M,50.0,46-55,1,Tamil Nadu,Healthcare,Electronics,Smartwatch,55988.85,5,0.15,279944.25,237952.61,2025-10-04,Meesho,Credit Card
+ORD10073,1194,Pooja,F,56.0,56-60,1,Uttar Pradesh,Marketing,Clothing,Jeans,3559.0,5,0.15,17795.0,15125.75,2025-10-30,Offline Store,Debit Card
+ORD10183,1084,Meera,M,31.0,26-35,1,Tamil Nadu,Teacher,Decor,Cushion,1969.9,3,0.1,5909.7,5318.73,2025-11-07,Amazon,UPI
+ORD10132,1080,Riya,M,24.0,18-25,1,West Bengal,Marketing,Electronics,Smartwatch,11069.22,5,0.05,55346.1,52578.8,2025-10-21,Amazon,Credit Card
+ORD10411,1170,Riya,F,23.0,18-25,0,Delhi,Government,Food,Gift Box,297.52,2,0.2,595.04,476.03,2025-10-24,Amazon,Net Banking
+ORD10194,1107,Karan,M,59.0,56-60,0,Madhya Pradesh,IT,Footwear,Slippers,2280.39,5,0.1,11401.95,10261.76,2025-10-09,Flipkart,Debit Card
+ORD10056,1109,Anjali,M,43.0,36-45,1,Uttar Pradesh,Government,Decor,Diyas,4526.48,4,0.05,18105.92,17200.62,2025-10-24,Meesho,Cash
+ORD10149,1129,Sneha,F,25.0,26-35,1,Gujarat,Finance,Clothing,Lehenga,1380.39,2,0.15,2760.78,2346.66,2025-11-13,Meesho,Cash
+ORD10019,1094,Priya,M,21.0,18-25,1,Gujarat,Government,Beauty,Perfume,1338.69,5,0.05,6693.45,6358.78,2025-11-04,Flipkart,Credit Card
+ORD10205,1065,Arjun,M,55.0,46-55,1,Gujarat,Marketing,Furniture,Bookshelf,13746.05,4,0.15,54984.2,46736.57,2025-10-27,Offline Store,Debit Card
+ORD10079,1001,Rohan,M,20.0,18-25,0,Uttar Pradesh,Engineering,Food,Gift Box,1951.73,3,0.1,5855.19,5269.67,2025-10-21,Offline Store,UPI
+ORD10495,1074,Simran,F,28.0,26-35,0,Maharashtra,Homemaker,Beauty,Skincare Set,4049.78,5,0.15,20248.9,17211.57,2025-10-16,Amazon,Credit Card
+ORD10263,1009,Meera,F,51.0,46-55,0,Madhya Pradesh,IT,Clothing,Kurta,2593.79,2,0.2,5187.58,4150.06,2025-10-10,Flipkart,UPI
+ORD10324,1119,Amit,F,34.0,26-35,1,Bihar,Government,Electronics,Smartphone,59837.04,4,0.05,239348.16,227380.75,2025-10-02,Amazon,UPI
+ORD10484,1002,Amit,M,26.0,26-35,0,Bihar,Homemaker,Footwear,Boots,4800.13,1,0.15,4800.13,4080.11,2025-10-23,Amazon,Cash
+ORD10080,1060,Neha,M,25.0,26-35,0,Gujarat,Healthcare,Clothing,Jeans,3595.13,4,0.15,14380.52,12223.44,2025-10-04,Offline Store,Net Banking
+ORD10040,1030,Riya,F,46.0,46-55,0,Delhi,Healthcare,Beauty,Makeup Kit,4038.95,5,0.15,20194.75,17165.54,2025-10-27,Meesho,UPI
+ORD10452,1079,Kavya,F,59.0,56-60,0,Tamil Nadu,Healthcare,Furniture,Bookshelf,18738.19,3,0.15,56214.57,47782.38,2025-11-08,Meesho,UPI
+ORD10047,1128,Meera,M,40.0,36-45,1,Madhya Pradesh,Marketing,Food,Chocolates,506.33,2,0.15,1012.66,860.76,2025-11-07,Flipkart,Credit Card
+ORD10239,1160,Priya,F,26.0,26-35,1,Gujarat,Marketing,Footwear,Slippers,4019.32,4,0.2,16077.28,12861.82,2025-10-30,Myntra,Cash
+ORD10392,1172,Priya,F,18.0,18-25,1,Rajasthan,Homemaker,Food,Gift Box,2967.62,3,0.1,8902.86,8012.57,2025-10-27,Meesho,Credit Card
+ORD10353,1093,Rahul,M,55.0,46-55,1,Uttar Pradesh,Marketing,Footwear,Boots,899.36,5,0.05,4496.8,4271.96,2025-10-29,Offline Store,Credit Card
+ORD10342,1151,Rohan,M,57.0,56-60,0,Delhi,Teacher,Beauty,Perfume,1337.28,5,0.2,6686.4,5349.12,2025-10-14,Myntra,Debit Card
+ORD10278,1027,Sandeep,M,23.0,18-25,1,Rajasthan,Engineering,Footwear,Sandals,2164.85,2,0.2,4329.7,3463.76,2025-10-31,Flipkart,Credit Card
+ORD10291,1055,Neha,F,42.0,36-45,1,Bihar,Homemaker,Clothing,Kurta,2462.87,2,0.2,4925.74,3940.59,2025-10-14,Offline Store,UPI
+ORD10318,1166,Neha,M,59.0,56-60,1,Maharashtra,Government,Electronics,Smartwatch,27140.5,2,0.15,54281.0,46138.85,2025-11-13,Myntra,Credit Card
+ORD10305,1048,Arjun,F,32.0,26-35,1,Karnataka,Government,Sports,Cricket Bat,550.48,4,0.05,2201.92,2091.82,2025-10-23,Flipkart,Debit Card
+ORD10269,1083,Aarav,M,57.0,56-60,1,Gujarat,Finance,Food,Snacks,1553.15,1,0.15,1553.15,1320.18,2025-11-01,Offline Store,Debit Card
+ORD10070,1056,Amit,F,20.0,18-25,1,Uttar Pradesh,Teacher,Decor,Lights,2526.22,5,0.25,12631.1,9473.33,2025-10-16,Amazon,Credit Card
+ORD10456,1122,Meera,M,35.0,26-35,1,Gujarat,Teacher,Beauty,Perfume,2777.8,1,0.25,2777.8,2083.35,2025-10-06,Amazon,Cash
+ORD10466,1015,Aarav,F,30.0,26-35,1,Karnataka,Teacher,Food,Sweets,622.46,4,0.15,2489.84,2116.36,2025-10-15,Flipkart,Debit Card
+ORD10155,1117,Arjun,M,55.0,46-55,1,Bihar,Government,Decor,Wall Art,386.9,5,0.2,1934.5,1547.6,2025-10-27,Offline Store,UPI
+ORD10083,1166,Priya,F,48.0,46-55,1,Rajasthan,Engineering,Food,Gift Box,310.1,2,0.15,620.2,527.17,2025-10-31,Flipkart,Credit Card
+ORD10478,1018,Sneha,F,39.0,36-45,1,,Finance,Furniture,Sofa,16563.15,5,0.25,82815.75,62111.81,2025-10-31,Offline Store,UPI
+ORD10173,1131,Pooja,F,33.0,26-35,0,Gujarat,Teacher,Beauty,Face Cream,2348.49,4,0.05,9393.96,8924.26,2025-11-14,Amazon,UPI
+ORD10322,1036,Priya,F,,18-25,0,Rajasthan,Business,Sports,Yoga Mat,1960.06,5,0.2,9800.3,7840.24,2025-11-08,Flipkart,Debit Card
+ORD10091,1148,Rahul,M,41.0,36-45,0,Bihar,Marketing,Clothing,Jeans,1458.06,5,0.2,7290.3,5832.24,2025-10-21,Amazon,UPI
+ORD10181,1191,Aditya,F,32.0,26-35,0,Bihar,Business,Food,Snacks,2113.04,1,0.05,2113.04,2007.39,2025-10-25,Amazon,UPI
+ORD10415,1071,Rohan,F,32.0,26-35,1,Uttar Pradesh,Student,Footwear,Slippers,2103.49,5,0.0,10517.45,10517.45,2025-11-08,Offline Store,UPI
+ORD10313,1146,Vivaan,F,30.0,26-35,1,Rajasthan,Business,Clothing,Shirt,3328.11,5,0.1,16640.55,14976.5,2025-10-07,Amazon,Credit Card
+ORD10279,1065,Shreya,M,21.0,18-25,0,Rajasthan,Finance,Footwear,Formal Shoes,2189.24,4,0.0,8756.96,8756.96,2025-11-03,Meesho,Credit Card
+ORD10382,1154,Priya,F,36.0,36-45,1,Delhi,Finance,Footwear,Sandals,5623.66,2,0.2,11247.32,8997.86,2025-11-04,Meesho,UPI
+ORD10473,1118,Riya,M,27.0,26-35,1,West Bengal,Teacher,Clothing,Lehenga,4596.54,1,0.0,4596.54,4596.54,2025-11-08,Amazon,Cash
+ORD10363,1108,Shreya,M,24.0,18-25,0,Delhi,Homemaker,Beauty,Makeup Kit,1459.25,5,0.2,7296.25,5837.0,2025-10-06,Flipkart,UPI
+ORD10325,1094,Shreya,F,59.0,56-60,1,West Bengal,Homemaker,Decor,Decorative Set,4879.18,1,0.15,4879.18,4147.3,2025-10-10,Offline Store,Credit Card
+ORD10432,1111,Vivaan,F,35.0,26-35,0,Tamil Nadu,Engineering,Sports,Sports Shoes,7216.65,5,0.15,36083.25,30670.76,2025-10-10,Offline Store,Net Banking
+ORD10348,1113,Anjali,M,44.0,36-45,1,Tamil Nadu,Healthcare,Clothing,Shirt,5473.98,5,0.05,27369.9,26001.4,2025-10-22,Myntra,Credit Card
+ORD10087,1072,Kavya,F,25.0,26-35,1,West Bengal,Business,Sports,Cricket Bat,9394.02,1,0.2,9394.02,7515.22,2025-10-23,Offline Store,UPI
+ORD10076,1164,Aditya,F,46.0,46-55,0,Uttar Pradesh,Teacher,Sports,Football,1209.6,2,0.2,2419.2,1935.36,2025-10-22,Amazon,Debit Card
+ORD10439,1126,Meera,F,46.0,46-55,0,Delhi,Healthcare,Footwear,Sandals,2206.41,2,0.25,4412.82,3309.62,2025-11-14,Offline Store,Debit Card
+ORD10016,1039,Meera,M,45.0,36-45,0,Madhya Pradesh,IT,Electronics,Smartwatch,24432.67,1,0.2,24432.67,19546.14,2025-10-09,Myntra,Cash
+ORD10250,1170,Priya,M,45.0,36-45,1,Gujarat,Healthcare,Grocery,Spices,121.69,5,0.1,608.45,547.6,2025-10-28,Offline Store,UPI
+ORD10434,1056,Vikash,F,19.0,18-25,1,West Bengal,Homemaker,Clothing,Saree,5514.49,1,0.2,5514.49,4411.59,2025-11-03,Amazon,UPI
+ORD10020,1036,Rohan,M,54.0,46-55,1,Bihar,Teacher,Electronics,Smartphone,5733.79,3,0.0,17201.37,17201.37,2025-11-03,Flipkart,Credit Card
+ORD10323,1174,Priya,M,33.0,26-35,1,Gujarat,Student,Footwear,Boots,3194.01,1,0.15,3194.01,2714.91,2025-10-18,Meesho,UPI
+ORD10333,1014,Arjun,F,43.0,36-45,1,Rajasthan,Teacher,Clothing,Kurta,1465.2,3,0.2,4395.6,3516.48,2025-10-31,Offline Store,Debit Card
+ORD10057,1117,Vikash,M,32.0,26-35,1,Maharashtra,Government,Clothing,Saree,3623.7,2,0.1,7247.4,6522.66,2025-11-09,Flipkart,UPI
+ORD10302,1006,Sneha,M,39.0,36-45,1,Bihar,Engineering,Furniture,Lamp,7741.17,2,0.0,15482.34,15482.34,2025-10-14,Amazon,UPI
+ORD10230,1108,Priya,F,41.0,36-45,1,Madhya Pradesh,Student,Footwear,Boots,5106.1,5,0.05,25530.5,24253.98,2025-10-24,Meesho,Credit Card
+ORD10332,1183,Vikash,M,33.0,26-35,1,Gujarat,IT,Sports,Sports Shoes,3933.34,3,0.2,11800.02,9440.02,2025-11-10,Flipkart,UPI
+ORD10133,1124,Rohan,M,53.0,46-55,0,Bihar,Finance,Clothing,Kurta,1779.55,4,0.1,7118.2,6406.38,2025-10-09,Myntra,Credit Card
+ORD10138,1010,Kavya,M,50.0,46-55,1,Karnataka,Government,Footwear,Sneakers,4941.69,4,0.0,19766.76,19766.76,2025-11-07,Myntra,UPI
+ORD10424,1088,Shreya,F,35.0,26-35,0,West Bengal,Healthcare,Beauty,Perfume,3348.34,3,0.15,10045.02,8538.27,2025-10-16,Amazon,UPI
+ORD10336,1114,Meera,F,59.0,56-60,1,Rajasthan,Business,Clothing,Saree,3370.74,4,0.0,13482.96,13482.96,2025-10-06,Myntra,Cash
+ORD10026,1060,Aditya,M,31.0,26-35,1,Tamil Nadu,Business,Grocery,Coffee,2120.39,3,0.2,6361.17,5088.94,2025-11-14,Offline Store,UPI
+ORD10465,1056,Riya,F,29.0,26-35,0,Uttar Pradesh,Healthcare,Decor,Diyas,1063.77,2,0.15,2127.54,1808.41,2025-10-25,Myntra,Cash
+ORD10282,1156,Anjali,M,42.0,36-45,1,Madhya Pradesh,Homemaker,Food,Sweets,368.61,3,0.05,1105.83,1050.54,2025-10-18,Flipkart,UPI
+ORD10248,1080,Vivaan,F,60.0,56-60,0,Tamil Nadu,Marketing,Decor,Decorative Set,4548.7,2,0.15,9097.4,7732.79,2025-10-09,Meesho,Credit Card
+ORD10238,1135,Aarav,F,23.0,18-25,0,Madhya Pradesh,Student,Clothing,Saree,4735.87,1,0.05,4735.87,4499.08,2025-10-17,Flipkart,Credit Card
+ORD10118,1102,Sandeep,F,21.0,18-25,1,Bihar,Marketing,Electronics,Smartphone,1933.44,4,0.2,7733.76,6187.01,2025-11-08,Amazon,UPI
+ORD10043,1054,Anjali,F,25.0,26-35,1,Gujarat,Healthcare,Clothing,Shirt,1770.91,3,0.15,5312.73,4515.82,2025-11-15,Flipkart,Cash
+ORD10221,1045,Shreya,F,51.0,46-55,0,Gujarat,IT,Footwear,Formal Shoes,4571.79,5,0.25,22858.95,17144.21,2025-10-25,Offline Store,Cash
+ORD10177,1194,Anjali,F,28.0,26-35,0,Gujarat,Healthcare,Footwear,Slippers,6460.17,3,0.2,19380.51,15504.41,2025-11-04,Amazon,Cash
+ORD10321,1040,Simran,F,29.0,26-35,1,Gujarat,Homemaker,Furniture,Table,19698.46,3,0.15,59095.38,50231.07,2025-10-12,Meesho,Credit Card
+ORD10154,1162,Kavya,F,41.0,36-45,0,Delhi,IT,Beauty,Hair Care,2983.92,4,0.15,11935.68,10145.33,2025-10-07,Flipkart,Cash
+ORD10232,1141,Arjun,F,30.0,26-35,0,Madhya Pradesh,Teacher,Beauty,Makeup Kit,1975.1,4,0.2,7900.4,6320.32,2025-10-05,Flipkart,Debit Card
+ORD10228,1100,Kavya,F,21.0,18-25,1,Uttar Pradesh,Teacher,Food,Snacks,884.14,3,0.2,2652.42,2121.94,2025-10-09,Meesho,Net Banking
+ORD10418,1068,Neha,F,26.0,26-35,0,Tamil Nadu,Marketing,Food,Chocolates,1961.28,3,0.2,5883.84,4707.07,2025-11-14,Offline Store,Debit Card
+ORD10204,1019,Sandeep,F,37.0,36-45,1,Uttar Pradesh,IT,Books,Comics,255.23,1,0.1,255.23,229.71,2025-10-17,Offline Store,Cash
+ORD10127,1067,Riya,M,23.0,18-25,1,Karnataka,Finance,Grocery,Oil,1607.08,2,0.2,3214.16,2571.33,2025-10-28,Offline Store,UPI
+ORD10330,1089,Riya,F,30.0,26-35,1,Uttar Pradesh,Homemaker,Electronics,Headphones,17633.22,2,0.15,35266.44,29976.47,2025-10-04,Offline Store,Net Banking
+ORD10032,1148,Priya,F,22.0,18-25,0,Rajasthan,Marketing,Electronics,Smartwatch,34364.99,2,0.1,68729.98,61856.98,2025-10-05,Amazon,UPI
+ORD10114,1072,Riya,F,59.0,56-60,0,Bihar,Healthcare,Grocery,Oil,608.91,2,0.05,1217.82,1156.93,2025-11-01,Offline Store,Debit Card
+ORD10471,1181,Aditya,M,35.0,26-35,1,Uttar Pradesh,IT,Clothing,Saree,2830.74,2,0.1,5661.48,5095.33,2025-10-22,Flipkart,Credit Card
+ORD10272,1145,Rohan,M,29.0,26-35,1,Karnataka,Teacher,Grocery,Coffee,790.32,3,0.05,2370.96,2252.41,2025-10-18,Amazon,Net Banking
+ORD10141,1135,Shreya,M,32.0,26-35,0,Karnataka,Student,Decor,Decorative Set,1999.22,4,0.1,7996.88,7197.19,2025-11-05,Amazon,UPI
+ORD10058,1187,Sandeep,F,35.0,26-35,1,Gujarat,Finance,Electronics,Speaker,28978.64,4,0.2,115914.56,92731.65,2025-10-31,Flipkart,Debit Card
+ORD10193,1189,Rohan,F,30.0,26-35,0,Gujarat,Business,Books,Biography,1201.55,4,0.05,4806.2,4565.89,2025-10-23,Myntra,Debit Card
+ORD10025,1117,Priya,F,31.0,26-35,0,Delhi,IT,Beauty,Makeup Kit,1874.57,1,0.2,1874.57,1499.66,2025-11-10,Offline Store,UPI
+ORD10018,1180,Vivaan,M,,18-25,1,Rajasthan,Student,Furniture,Chair,14547.01,2,0.1,29094.02,26184.62,2025-11-12,Offline Store,UPI
+ORD10266,1070,Rohan,F,30.0,26-35,0,Uttar Pradesh,IT,Sports,Cricket Bat,793.15,1,0.05,793.15,753.49,2025-10-22,Flipkart,Cash
+ORD10067,1073,Arjun,F,42.0,36-45,0,Madhya Pradesh,Marketing,Clothing,Kurta,1346.43,3,0.05,4039.29,3837.33,2025-10-15,Amazon,Net Banking
+ORD10209,1053,Shreya,M,39.0,36-45,1,Delhi,Homemaker,Clothing,Lehenga,1347.8,1,0.15,1347.8,1145.63,2025-10-17,Amazon,UPI
+ORD10480,1093,Rohan,M,20.0,18-25,0,Karnataka,Engineering,Furniture,Bookshelf,17958.5,5,0.05,89792.5,85302.88,2025-10-15,Amazon,UPI
+ORD10095,1066,Aditya,F,45.0,36-45,0,Gujarat,Marketing,Sports,Cricket Bat,6794.9,1,0.1,6794.9,6115.41,2025-10-13,Amazon,Debit Card
+ORD10254,1116,Sandeep,F,37.0,36-45,1,Karnataka,Homemaker,Food,Dry Fruits,797.16,2,0.2,1594.32,1275.46,2025-10-27,Offline Store,UPI
+ORD10267,1081,Aditya,M,18.0,18-25,1,Bihar,Healthcare,Footwear,Slippers,4828.96,5,0.25,24144.8,18108.6,2025-10-18,Amazon,UPI
+ORD10024,1073,Meera,M,54.0,46-55,1,Rajasthan,Government,Food,Gift Box,2085.26,4,0.1,8341.04,7506.94,2025-10-29,Meesho,UPI
+ORD10223,1158,Pooja,F,34.0,26-35,0,Madhya Pradesh,Engineering,Clothing,Shirt,621.15,5,0.2,3105.75,2484.6,2025-10-30,Flipkart,Net Banking
+ORD10262,1039,Riya,F,53.0,46-55,0,Karnataka,Marketing,Decor,Decorative Set,3591.84,3,0.1,10775.52,9697.97,2025-10-01,Amazon,Credit Card
+ORD10427,1152,Shreya,F,52.0,46-55,1,Gujarat,Finance,Beauty,Hair Care,1729.71,2,0.25,3459.42,2594.56,2025-10-03,Offline Store,Debit Card
+ORD10006,1123,Kavya,F,20.0,18-25,1,Karnataka,Engineering,Clothing,Saree,2469.89,2,0.15,4939.78,4198.81,2025-10-16,Amazon,Net Banking
+ORD10117,1007,Kavya,M,52.0,46-55,1,West Bengal,Engineering,Grocery,Spices,1526.74,1,0.3,1526.74,1068.72,2025-10-13,Amazon,UPI
+ORD10046,1166,Karan,M,54.0,46-55,0,Bihar,,Footwear,Sandals,2796.19,4,0.2,11184.76,8947.81,2025-10-26,Meesho,UPI
+ORD10017,1109,Kavya,M,58.0,56-60,1,Maharashtra,Marketing,Food,Gift Box,1821.42,4,0.1,7285.68,6557.11,2025-10-18,Flipkart,Credit Card
+ORD10463,1151,Vikash,F,58.0,56-60,1,Maharashtra,Government,Sports,Badminton Set,2324.15,2,0.15,4648.3,3951.06,2025-10-22,Myntra,Cash
+ORD10358,1163,Rohan,F,48.0,46-55,0,West Bengal,Engineering,Furniture,Bookshelf,14835.34,5,0.1,74176.7,66759.03,2025-10-04,Myntra,Cash
+ORD10004,1133,Rohan,F,48.0,46-55,1,Karnataka,Student,Furniture,Bookshelf,2353.01,4,0.2,9412.04,7529.63,2025-10-31,Amazon,Credit Card
+ORD10219,1037,Pooja,F,32.0,26-35,1,Madhya Pradesh,IT,Footwear,Formal Shoes,5269.94,1,0.15,5269.94,4479.45,2025-10-04,Offline Store,UPI
+ORD10406,1132,Priya,F,58.0,56-60,1,Bihar,Healthcare,Books,Programming Book,339.45,2,0.15,678.9,577.06,2025-10-22,Offline Store,Credit Card
+ORD10061,1062,Sneha,F,46.0,46-55,1,Madhya Pradesh,Homemaker,Food,Snacks,303.09,4,0.0,1212.36,1212.36,2025-11-12,Amazon,UPI
+ORD10111,1106,Arjun,F,33.0,26-35,0,Bihar,Homemaker,Electronics,Smartwatch,55846.75,4,0.15,223387.0,189878.95,2025-10-02,Amazon,UPI
+ORD10319,1087,Karan,F,22.0,18-25,1,Rajasthan,Homemaker,Clothing,Saree,1105.35,3,0.05,3316.05,3150.25,2025-11-11,Amazon,UPI
+ORD10429,1080,Sneha,F,51.0,46-55,0,Madhya Pradesh,Teacher,Food,Snacks,841.66,2,0.05,1683.32,1599.15,2025-10-26,Offline Store,Debit Card
+ORD10030,1196,Vivaan,F,50.0,46-55,1,Uttar Pradesh,Teacher,Clothing,Kurta,2214.47,5,0.2,11072.35,8857.88,2025-10-16,Meesho,Credit Card
+ORD10438,1080,Simran,M,45.0,36-45,1,West Bengal,Homemaker,Grocery,Rice,249.84,3,0.1,749.52,674.57,2025-10-11,Amazon,Credit Card
+ORD10472,1099,Amit,F,43.0,36-45,1,West Bengal,Business,Decor,Cushion,4077.85,3,0.1,12233.55,11010.2,2025-10-05,Offline Store,UPI
+ORD10027,1039,Amit,M,25.0,26-35,1,Rajasthan,IT,Electronics,Smartphone,52754.83,1,0.15,52754.83,44841.61,2025-10-15,Offline Store,Net Banking
+ORD10008,1052,Rohan,M,51.0,46-55,1,West Bengal,Homemaker,Books,Exam Guide,1536.31,3,0.05,4608.93,4378.48,2025-11-05,Flipkart,Net Banking
+ORD10454,1179,Shreya,M,59.0,56-60,1,Rajasthan,Marketing,Books,Exam Guide,962.11,3,0.1,2886.33,2597.7,2025-11-14,Offline Store,UPI
+ORD10109,1107,Riya,F,40.0,36-45,1,Madhya Pradesh,Business,Electronics,Headphones,43213.96,3,0.0,129641.88,129641.88,2025-10-04,Amazon,UPI
+ORD10038,1150,Kavya,F,60.0,56-60,0,Bihar,Engineering,Clothing,Jeans,2804.09,1,0.1,2804.09,2523.68,2025-10-26,Flipkart,Net Banking
+ORD10158,1113,Pooja,F,60.0,56-60,1,Delhi,Student,Sports,Sports Shoes,3941.24,2,0.05,7882.48,7488.36,2025-10-16,Flipkart,Credit Card
+ORD10490,1110,Amit,M,35.0,26-35,0,Tamil Nadu,Government,Books,Programming Book,243.82,3,0.2,731.46,585.17,2025-10-28,Amazon,UPI
+ORD10119,1123,Rohan,M,50.0,46-55,0,Uttar Pradesh,Healthcare,Books,Programming Book,2251.35,3,0.1,6754.05,6078.64,2025-10-05,Offline Store,UPI
+ORD10115,1164,Sandeep,M,36.0,36-45,1,Uttar Pradesh,Finance,Footwear,Formal Shoes,6017.75,2,0.2,12035.5,9628.4,2025-11-11,Offline Store,UPI
+ORD10176,1148,Vivaan,M,42.0,36-45,0,Delhi,Engineering,Electronics,Smartwatch,41524.8,3,0.15,124574.4,105888.24,2025-10-21,Amazon,UPI
+ORD10374,1014,Sandeep,F,33.0,26-35,1,Karnataka,Finance,Footwear,Boots,4534.62,5,0.05,22673.1,21539.44,2025-11-07,Meesho,Net Banking
+ORD10182,1115,Aarav,F,30.0,26-35,0,Maharashtra,Marketing,Clothing,Jeans,1780.2,1,0.2,1780.2,1424.16,2025-11-14,Meesho,Debit Card
+ORD10145,1179,Neha,M,49.0,46-55,1,Tamil Nadu,Government,Electronics,Headphones,56641.47,4,0.05,226565.88,215237.59,2025-11-02,Amazon,UPI
+ORD10370,1099,Priya,M,27.0,26-35,1,West Bengal,Government,Clothing,Kurta,4139.45,4,0.1,16557.8,14902.02,2025-10-13,Flipkart,Credit Card
+ORD10391,1133,Karan,F,52.0,46-55,1,Rajasthan,Healthcare,Decor,Cushion,1346.96,5,0.25,6734.8,5051.1,2025-10-13,Flipkart,Cash
+ORD10196,1189,Riya,M,29.0,26-35,1,Tamil Nadu,Student,Food,Chocolates,2216.59,5,0.2,11082.95,8866.36,2025-10-02,Flipkart,Cash
+ORD10405,1027,Neha,M,60.0,56-60,0,Delhi,Business,Food,Gift Box,837.36,4,0.15,3349.44,2847.02,2025-10-26,Meesho,UPI
+ORD10276,1089,Aditya,M,51.0,46-55,0,Tamil Nadu,Teacher,Beauty,Makeup Kit,2694.58,3,0.15,8083.74,6871.18,2025-11-13,Myntra,UPI
+ORD10455,1083,Aditya,M,24.0,18-25,1,Bihar,Finance,Clothing,Kurta,5732.68,1,0.1,5732.68,5159.41,2025-10-11,Myntra,UPI
+ORD10142,1104,Karan,M,25.0,26-35,0,Uttar Pradesh,Business,Electronics,Headphones,2235.75,4,0.25,8943.0,6707.25,2025-11-02,Offline Store,Cash
+ORD10366,1139,Priya,F,59.0,56-60,1,Bihar,IT,Food,Sweets,1761.82,3,0.15,5285.46,4492.64,2025-11-01,Amazon,Net Banking
+ORD10068,1076,Sandeep,F,42.0,36-45,1,Karnataka,Healthcare,Grocery,Tea,755.1,5,0.25,3775.5,2831.62,2025-10-27,Meesho,UPI
+ORD10211,1099,Kavya,F,34.0,26-35,1,Tamil Nadu,Finance,Furniture,Bookshelf,16029.62,3,0.05,48088.86,45684.42,2025-11-08,Offline Store,Credit Card
+ORD10169,1143,Amit,F,39.0,36-45,1,Madhya Pradesh,Marketing,Clothing,Jeans,3496.66,4,0.2,13986.64,11189.31,2025-10-29,Flipkart,Credit Card
+ORD10494,1002,Rahul,M,39.0,36-45,1,West Bengal,Marketing,Electronics,Smartwatch,44862.68,2,0.1,89725.36,80752.82,2025-11-10,Offline Store,Cash
+ORD10376,1030,Pooja,M,53.0,46-55,1,Rajasthan,Business,Food,Chocolates,1282.38,2,0.0,2564.76,2564.76,2025-10-24,Myntra,Credit Card
+ORD10401,1097,Arjun,M,46.0,46-55,0,Uttar Pradesh,Finance,Clothing,Jeans,3688.52,1,0.1,3688.52,3319.67,2025-10-13,Offline Store,Debit Card
+ORD10273,1197,Vivaan,M,36.0,36-45,0,Uttar Pradesh,Business,Books,Biography,986.26,2,0.1,1972.52,1775.27,2025-11-08,Amazon,Debit Card
+ORD10110,1019,Vivaan,M,39.0,36-45,1,Karnataka,Business,Clothing,Shirt,2590.41,4,0.25,10361.64,7771.23,2025-11-03,Flipkart,UPI
+ORD10249,1187,Simran,F,34.0,26-35,1,Rajasthan,Engineering,Decor,Cushion,1311.97,1,0.15,1311.97,1115.17,2025-10-15,Offline Store,Net Banking
+ORD10146,1126,Amit,F,38.0,36-45,1,West Bengal,Teacher,Clothing,Kurta,1921.37,2,0.15,3842.74,3266.33,2025-10-29,Meesho,UPI
+ORD10093,1040,Anjali,M,35.0,26-35,1,Bihar,Government,Sports,Badminton Set,3196.62,5,0.05,15983.1,15183.94,2025-10-17,Myntra,Credit Card
+ORD10153,1188,Pooja,M,21.0,18-25,1,Bihar,Finance,Clothing,Lehenga,510.34,5,0.0,2551.7,2551.7,2025-10-01,Flipkart,UPI
+ORD10368,1073,Sandeep,F,58.0,56-60,0,Bihar,Government,Books,Novel,1568.29,1,0.1,1568.29,1411.46,2025-10-09,Offline Store,UPI
+ORD10468,1168,Priya,M,47.0,46-55,1,Gujarat,Homemaker,Books,Comics,2326.24,5,0.15,11631.2,9886.52,2025-10-08,Offline Store,Cash
+ORD10084,1080,Simran,M,49.0,46-55,1,Maharashtra,IT,Clothing,Shirt,3142.79,1,0.1,3142.79,2828.51,2025-10-23,Flipkart,UPI
+ORD10246,1169,Riya,F,23.0,18-25,1,Gujarat,Homemaker,Decor,Wall Art,3986.4,3,0.1,11959.2,10763.28,2025-10-15,Amazon,Credit Card
+ORD10166,1186,Priya,M,45.0,36-45,1,Uttar Pradesh,Healthcare,Grocery,Rice,1356.14,5,0.05,6780.7,6441.66,2025-10-21,Offline Store,UPI
+ORD10164,1082,Rahul,F,38.0,36-45,0,Gujarat,IT,Furniture,Table,20868.84,1,0.15,20868.84,17738.51,2025-10-28,Amazon,UPI
+ORD10200,1094,Amit,F,33.0,26-35,1,Delhi,IT,Sports,Badminton Set,7539.32,5,0.0,37696.6,37696.6,2025-11-11,Offline Store,Debit Card
+ORD10229,1157,Aarav,F,43.0,36-45,1,West Bengal,Homemaker,Books,Comics,1736.58,1,0.15,1736.58,1476.09,2025-10-04,Flipkart,UPI
+ORD10075,1192,Meera,F,44.0,36-45,1,Rajasthan,IT,Footwear,Slippers,1546.77,4,0.0,6187.08,6187.08,2025-10-03,Myntra,UPI
+ORD10479,1048,Vikash,F,54.0,46-55,0,Delhi,Homemaker,Decor,Wall Art,1766.02,3,0.2,5298.06,4238.45,2025-10-10,Offline Store,Cash
+ORD10359,1198,Kavya,F,23.0,18-25,1,West Bengal,Government,Decor,Lights,260.03,5,0.1,1300.15,1170.14,2025-10-10,Amazon,UPI
+ORD10251,1108,Pooja,M,20.0,18-25,1,Rajasthan,Marketing,Electronics,Smartwatch,15975.44,3,0.0,47926.32,47926.32,2025-10-24,Myntra,Cash
+ORD10120,1200,Kavya,F,25.0,26-35,0,Tamil Nadu,Finance,Furniture,Sofa,20208.56,3,0.15,60625.68,51531.83,2025-10-10,Myntra,UPI
+ORD10311,1084,Rahul,F,23.0,18-25,0,Gujarat,IT,Beauty,Hair Care,4111.71,4,0.15,16446.84,13979.81,2025-10-25,Flipkart,Net Banking
+ORD10300,1080,Karan,M,39.0,36-45,0,Madhya Pradesh,Government,Clothing,Jeans,4335.01,1,0.15,4335.01,3684.76,2025-10-02,Amazon,Cash
+ORD10256,1047,Vikash,F,24.0,18-25,0,Bihar,Government,Furniture,Sofa,19210.63,3,0.05,57631.89,54750.3,2025-11-14,Amazon,UPI
+ORD10355,1031,Simran,M,51.0,46-55,1,Rajasthan,Marketing,Clothing,Kurta,674.78,2,0.1,1349.56,1214.6,2025-10-07,Offline Store,Credit Card
+ORD10400,1110,Priya,M,24.0,18-25,1,West Bengal,Healthcare,Sports,Cricket Bat,9682.2,4,0.1,38728.8,34855.92,2025-10-02,Offline Store,UPI
+ORD10226,1185,Meera,M,32.0,26-35,0,Rajasthan,Teacher,Electronics,Headphones,43581.57,1,0.2,43581.57,34865.26,2025-10-24,Offline Store,Debit Card
+ORD10354,1167,Pooja,F,29.0,26-35,0,Rajasthan,Homemaker,Electronics,Laptop,37399.7,3,0.15,112199.1,95369.24,2025-10-17,Flipkart,UPI
+ORD10235,1046,Pooja,M,27.0,26-35,0,Rajasthan,IT,Electronics,Smartphone,7579.22,2,0.15,15158.44,12884.67,2025-10-19,Offline Store,Cash
+ORD10383,1060,Simran,M,19.0,18-25,1,Tamil Nadu,Homemaker,Footwear,Sandals,6271.21,2,0.2,12542.42,10033.94,2025-10-31,Offline Store,Net Banking
+ORD10275,1156,Karan,F,22.0,18-25,1,Madhya Pradesh,IT,Beauty,Hair Care,4890.1,2,0.3,9780.2,6846.14,2025-10-18,Offline Store,Debit Card
+ORD10037,1187,Sneha,F,60.0,56-60,0,Madhya Pradesh,Government,Food,Sweets,1494.43,3,0.15,4483.29,3810.8,2025-11-01,Amazon,Credit Card
+ORD10197,1082,Kavya,M,37.0,36-45,0,Bihar,Healthcare,Sports,Cricket Bat,6545.81,5,0.2,32729.05,26183.24,2025-10-19,Offline Store,Net Banking
+ORD10140,1109,Shreya,M,18.0,18-25,0,Karnataka,Business,Decor,Decorative Set,334.37,1,0.2,334.37,267.5,2025-10-19,Amazon,Net Banking
+ORD10365,1032,Sandeep,F,23.0,18-25,1,Madhya Pradesh,Student,Decor,Decorative Set,2213.38,4,0.2,8853.52,7082.82,2025-10-05,Amazon,Credit Card
+ORD10245,1003,Rohan,M,30.0,26-35,0,Uttar Pradesh,IT,Clothing,Lehenga,3915.0,2,0.15,7830.0,6655.5,2025-10-01,Offline Store,Net Banking
+ORD10440,1176,Vikash,F,43.0,36-45,1,Bihar,Teacher,Clothing,Jeans,4913.18,5,0.05,24565.9,23337.6,2025-10-07,Amazon,UPI
+ORD10287,1123,Rohan,M,60.0,56-60,1,Karnataka,Healthcare,Beauty,Hair Care,3399.02,3,0.15,10197.06,8667.5,2025-10-08,Offline Store,UPI
+ORD10060,1108,Vivaan,M,59.0,56-60,1,West Bengal,Healthcare,Food,Dry Fruits,2239.78,1,0.25,2239.78,1679.84,2025-11-09,Meesho,Net Banking
+ORD10112,1159,Vikash,M,30.0,26-35,1,Tamil Nadu,Marketing,Electronics,Smartphone,31826.38,4,0.05,127305.52,120940.24,2025-10-05,Amazon,UPI
+ORD10090,1059,Aditya,M,58.0,56-60,0,Rajasthan,IT,Beauty,Face Cream,3335.66,5,0.3,16678.3,11674.81,2025-11-06,Amazon,UPI
+ORD10437,1183,Neha,M,52.0,46-55,1,West Bengal,Finance,Clothing,Kurta,2536.28,1,0.1,2536.28,2282.65,2025-10-31,Meesho,Debit Card
+ORD10007,1075,Shreya,F,19.0,18-25,1,Maharashtra,Teacher,Clothing,Kurta,1237.08,5,0.15,6185.4,5257.59,2025-11-09,Flipkart,Credit Card
+ORD10361,1032,Arjun,M,52.0,46-55,1,Karnataka,Business,Food,Gift Box,1370.71,3,0.25,4112.13,3084.1,2025-10-24,Amazon,UPI
+ORD10347,1118,Sandeep,F,41.0,36-45,1,Gujarat,Homemaker,Footwear,Boots,3348.32,2,0.05,6696.64,6361.81,2025-10-03,Meesho,UPI
+ORD10339,1180,Sandeep,F,32.0,26-35,0,Bihar,IT,Beauty,Hair Care,418.17,1,0.15,418.17,355.44,2025-11-03,Flipkart,UPI
+ORD10159,1064,Rahul,M,46.0,46-55,1,Karnataka,Business,Electronics,Smartwatch,16298.51,2,0.2,32597.02,26077.62,2025-11-15,Myntra,Net Banking
+ORD10151,1121,Vivaan,F,31.0,26-35,1,Delhi,Government,Books,Exam Guide,1938.33,4,0.2,7753.32,6202.66,2025-10-31,Offline Store,Debit Card
+ORD10178,1190,Aarav,M,45.0,36-45,0,Madhya Pradesh,Finance,Food,Snacks,2651.48,2,0.1,5302.96,4772.66,2025-11-10,Flipkart,Debit Card
+ORD10394,1109,Simran,F,29.0,26-35,1,Rajasthan,Finance,Sports,Badminton Set,7515.81,5,0.15,37579.05,31942.19,2025-10-17,Amazon,UPI
+ORD10185,1181,Arjun,M,55.0,46-55,0,Uttar Pradesh,Marketing,Electronics,Smartphone,17609.75,4,0.05,70439.0,66917.05,2025-10-20,Amazon,Cash
+ORD10450,1127,Aarav,F,18.0,18-25,0,Maharashtra,IT,Clothing,Lehenga,1162.0,1,0.2,1162.0,929.6,2025-10-12,Myntra,UPI
+ORD10011,1155,Kavya,F,20.0,18-25,0,Karnataka,Student,Clothing,Jeans,1500.34,1,0.25,1500.34,1125.25,2025-10-12,Offline Store,Cash
+ORD10381,1095,Meera,F,29.0,26-35,1,Uttar Pradesh,Student,Clothing,Shirt,3559.05,4,0.15,14236.2,12100.77,2025-11-09,Amazon,Credit Card
+ORD10104,1063,Karan,F,23.0,18-25,1,Madhya Pradesh,Student,Beauty,Face Cream,1873.15,2,0.3,3746.3,2622.41,2025-10-19,Meesho,Credit Card
+ORD10082,1117,Vivaan,F,39.0,36-45,0,Uttar Pradesh,Marketing,Footwear,Slippers,2033.76,1,0.05,2033.76,1932.07,2025-11-13,Offline Store,Cash
+ORD10039,1049,Vikash,F,57.0,56-60,0,West Bengal,Finance,Footwear,Sneakers,4078.22,4,0.15,16312.88,13865.95,2025-10-17,Offline Store,UPI
+ORD10315,1158,Riya,M,28.0,26-35,0,Gujarat,Healthcare,Grocery,Coffee,2240.11,5,0.2,11200.55,8960.44,2025-10-12,Amazon,Net Banking
+ORD10168,1192,Shreya,F,52.0,46-55,0,West Bengal,Student,Electronics,Laptop,4674.11,4,0.1,18696.44,16826.8,2025-10-06,Offline Store,UPI
+ORD10470,1079,Anjali,M,30.0,26-35,1,Tamil Nadu,Business,Decor,Wall Art,3715.85,3,0.0,11147.55,11147.55,2025-11-02,Myntra,Cash
+ORD10297,1129,Vivaan,M,30.0,26-35,1,Uttar Pradesh,Student,Sports,Football,2131.09,2,0.1,4262.18,3835.96,2025-10-25,Flipkart,UPI
+ORD10475,1108,Meera,F,31.0,26-35,1,Gujarat,Healthcare,Furniture,Sofa,13752.56,2,0.25,27505.12,20628.84,2025-11-07,Myntra,Net Banking
+ORD10199,1051,Karan,F,35.0,26-35,1,Bihar,Teacher,Books,Exam Guide,2236.89,5,0.0,11184.45,11184.45,2025-10-07,Offline Store,Credit Card
+ORD10298,1069,Meera,F,30.0,26-35,1,West Bengal,Student,Electronics,Speaker,20895.19,2,0.15,41790.38,35521.82,2025-10-28,Amazon,Debit Card
+ORD10417,1171,Kavya,F,22.0,18-25,0,Maharashtra,Engineering,Electronics,Smartphone,10798.42,3,0.15,32395.26,27535.97,2025-11-10,Flipkart,UPI
+ORD10147,1002,Anjali,M,35.0,26-35,1,Delhi,Government,Furniture,Lamp,7463.95,4,0.0,29855.8,29855.8,2025-11-12,Amazon,Debit Card
+ORD10393,1081,Vivaan,F,18.0,18-25,1,Delhi,IT,Food,Snacks,2684.82,3,0.2,8054.46,6443.57,2025-10-06,Meesho,Credit Card
+ORD10148,1184,Aditya,M,50.0,46-55,1,West Bengal,Engineering,Beauty,Skincare Set,3717.45,3,0.2,11152.35,8921.88,2025-11-05,Amazon,Debit Card
+ORD10448,1094,Rohan,M,51.0,46-55,1,Karnataka,Business,Sports,Football,937.6,4,0.15,3750.4,3187.84,2025-10-16,Myntra,UPI
+ORD10288,1004,Vikash,M,30.0,26-35,1,Bihar,IT,Furniture,Table,13001.92,3,0.15,39005.76,33154.9,2025-11-04,Flipkart,Debit Card
+ORD10124,1161,Riya,M,,46-55,0,Bihar,IT,Clothing,Lehenga,1011.11,2,0.2,2022.22,1617.78,2025-10-21,Offline Store,Net Banking
+ORD10369,1074,Neha,F,42.0,36-45,1,West Bengal,Engineering,Electronics,Smartphone,10453.31,5,0.15,52266.55,44426.57,2025-10-27,Meesho,Cash
+ORD10097,1028,Priya,F,37.0,36-45,1,Karnataka,IT,Furniture,Bookshelf,6969.14,3,0.25,20907.42,15680.56,2025-10-30,Myntra,Credit Card
+ORD10144,1146,Karan,M,57.0,56-60,1,Tamil Nadu,Engineering,Food,Chocolates,554.25,2,0.1,1108.5,997.65,2025-10-14,Offline Store,UPI
+ORD10240,1157,Vivaan,F,46.0,46-55,1,West Bengal,Homemaker,Electronics,Speaker,24482.31,4,0.25,97929.24,73446.93,2025-10-24,Amazon,Debit Card
+ORD10443,1116,Neha,F,52.0,46-55,1,Uttar Pradesh,Marketing,Food,Snacks,2399.88,3,0.2,7199.64,5759.71,2025-10-06,Myntra,Net Banking
+ORD10098,1108,Simran,M,23.0,18-25,0,Karnataka,Business,Beauty,Perfume,3585.85,4,0.2,14343.4,11474.72,2025-11-14,Offline Store,UPI
+ORD10408,1033,Sandeep,F,59.0,56-60,1,West Bengal,Engineering,Clothing,Shirt,3339.56,5,0.0,16697.8,16697.8,2025-10-03,Amazon,Net Banking
+ORD10123,1118,Rahul,F,57.0,56-60,1,Uttar Pradesh,Engineering,Food,Snacks,2788.82,5,0.05,13944.1,13246.9,2025-10-27,Meesho,Credit Card
+ORD10184,1028,Simran,F,36.0,36-45,1,Madhya Pradesh,Government,Books,Novel,836.71,3,0.2,2510.13,2008.1,2025-11-14,Amazon,Net Banking
+ORD10203,1124,Aarav,F,53.0,46-55,1,Karnataka,Government,Electronics,Smartwatch,35349.73,2,0.1,70699.46,63629.51,2025-10-09,Meesho,UPI
+ORD10247,1055,Rohan,F,36.0,36-45,1,Bihar,Finance,Beauty,Perfume,1251.76,5,0.1,6258.8,5632.92,2025-11-01,Flipkart,UPI
+ORD10306,1059,Vikash,F,46.0,46-55,0,Rajasthan,Homemaker,Decor,Lights,3816.66,3,0.15,11449.98,9732.48,2025-10-20,Myntra,Debit Card
+ORD10299,1029,Priya,F,20.0,18-25,0,Madhya Pradesh,Teacher,Footwear,Sneakers,519.62,1,0.2,519.62,415.7,2025-10-12,Amazon,Debit Card
+ORD10352,1089,Simran,M,27.0,26-35,1,Karnataka,Homemaker,Grocery,Coffee,2195.25,3,0.1,6585.75,5927.18,2025-10-12,Amazon,UPI
+ORD10387,1162,Sneha,M,31.0,26-35,1,Bihar,Teacher,Electronics,Speaker,5094.25,5,0.15,25471.25,21650.56,2025-10-13,Amazon,Debit Card
+ORD10396,1151,Priya,M,43.0,36-45,1,Gujarat,Finance,Decor,Cushion,2800.15,2,0.05,5600.3,5320.28,2025-11-09,Flipkart,Credit Card
+ORD10285,1082,Rohan,M,27.0,26-35,1,Gujarat,Finance,Furniture,Table,15330.3,2,0.1,30660.6,27594.54,2025-10-09,Flipkart,Credit Card
+ORD10126,1086,Rahul,M,32.0,26-35,1,Uttar Pradesh,Homemaker,Beauty,Face Cream,2675.26,3,0.2,8025.78,6420.62,2025-10-01,Meesho,UPI
+ORD10303,1020,Sandeep,M,32.0,26-35,0,Rajasthan,Marketing,Furniture,Chair,2778.53,2,0.15,5557.06,4723.5,2025-10-22,Amazon,UPI
+ORD10224,1054,Simran,F,25.0,26-35,1,Maharashtra,Business,Food,Dry Fruits,2187.4,2,0.15,4374.8,3718.58,2025-10-12,Amazon,UPI
+ORD10419,1111,Kavya,F,35.0,26-35,1,Maharashtra,Healthcare,Footwear,Boots,1963.7,1,0.0,1963.7,1963.7,2025-10-12,Flipkart,Net Banking
+ORD10220,1128,Arjun,M,31.0,26-35,0,Delhi,Marketing,Grocery,Coffee,1780.08,1,0.2,1780.08,1424.06,2025-11-07,Amazon,Net Banking
+ORD10130,1020,Kavya,M,31.0,26-35,1,Maharashtra,Government,Beauty,Hair Care,2837.74,4,0.1,11350.96,10215.86,2025-10-21,Flipkart,Cash
+ORD10421,1147,Simran,F,50.0,46-55,0,Tamil Nadu,Finance,Grocery,Tea,902.06,4,0.1,3608.24,3247.42,2025-10-10,Myntra,Cash
+ORD10290,1069,Aarav,M,21.0,18-25,0,Gujarat,Homemaker,Furniture,Lamp,20539.02,4,0.1,82156.08,73940.47,2025-10-05,Flipkart,Credit Card
+ORD10445,1096,Simran,F,41.0,36-45,1,Madhya Pradesh,Healthcare,Grocery,Tea,1611.11,5,0.1,8055.55,7250.0,2025-11-01,Meesho,Credit Card
+ORD10377,1038,Rohan,F,36.0,36-45,1,Bihar,Engineering,Grocery,Coffee,2249.66,4,0.05,8998.64,8548.71,2025-11-04,Amazon,Net Banking
+ORD10292,1006,Shreya,F,26.0,26-35,0,Madhya Pradesh,Teacher,Clothing,Kurta,3280.99,1,0.1,3280.99,2952.89,2025-10-28,Myntra,Debit Card
+ORD10356,1182,Sandeep,F,59.0,56-60,1,Rajasthan,Finance,Footwear,Boots,4452.2,1,0.05,4452.2,4229.59,2025-10-13,Myntra,Cash
+ORD10295,1162,Karan,M,53.0,46-55,0,West Bengal,Government,Clothing,Shirt,1828.45,2,0.15,3656.9,3108.36,2025-11-08,Myntra,Credit Card
+ORD10397,1011,Rohan,F,44.0,36-45,0,Rajasthan,Business,Grocery,Tea,1505.41,3,0.15,4516.23,3838.8,2025-11-04,Flipkart,UPI
+ORD10341,1107,Amit,M,18.0,18-25,0,West Bengal,IT,Beauty,Perfume,1107.87,3,0.05,3323.61,3157.43,2025-10-15,Myntra,Credit Card
+ORD10113,1047,Pooja,F,59.0,56-60,1,Rajasthan,Engineering,Decor,Cushion,2180.18,1,0.1,2180.18,1962.16,2025-10-10,Meesho,Debit Card
+ORD10180,1156,Anjali,M,57.0,56-60,1,Uttar Pradesh,Marketing,Clothing,Jeans,4566.12,2,0.1,9132.24,8219.02,2025-10-03,Amazon,UPI
+ORD10308,1094,Sneha,F,19.0,18-25,1,Uttar Pradesh,Homemaker,Food,Gift Box,2177.55,3,0.05,6532.65,6206.02,2025-10-04,Offline Store,Credit Card
+ORD10433,1099,Rahul,M,28.0,26-35,1,Gujarat,Student,Footwear,Formal Shoes,724.86,1,0.05,724.86,688.62,2025-11-11,Amazon,Credit Card
+ORD10488,1048,Sandeep,M,49.0,46-55,1,Bihar,Homemaker,Electronics,Smartwatch,47197.01,4,0.05,188788.04,179348.64,2025-11-04,Flipkart,Net Banking
+ORD10482,1190,Shreya,M,20.0,18-25,0,Tamil Nadu,Healthcare,Footwear,Sandals,748.66,2,0.05,1497.32,1422.45,2025-11-13,Flipkart,Net Banking
+ORD10423,1134,Shreya,F,18.0,18-25,1,West Bengal,Healthcare,Clothing,Lehenga,2887.29,5,0.3,14436.45,10105.52,2025-11-09,Offline Store,Credit Card
+ORD10234,1054,Aarav,F,45.0,36-45,0,Delhi,Engineering,Beauty,Face Cream,3738.06,4,0.0,14952.24,14952.24,2025-11-11,Amazon,UPI
+ORD10312,1079,Rahul,F,52.0,46-55,1,Rajasthan,Engineering,Clothing,Lehenga,1927.67,5,0.2,9638.35,7710.68,2025-10-01,Offline Store,Net Banking
+ORD10165,1161,Kavya,F,58.0,56-60,0,Madhya Pradesh,Government,Clothing,Shirt,2197.84,5,0.15,10989.2,9340.82,2025-10-05,Meesho,Credit Card
+ORD10137,1042,Pooja,M,38.0,36-45,0,Gujarat,Engineering,Beauty,Perfume,3147.59,5,0.15,15737.95,13377.26,2025-11-09,Amazon,Debit Card
+ORD10198,1076,Shreya,M,50.0,46-55,1,Madhya Pradesh,Homemaker,Books,Programming Book,434.41,4,0.15,1737.64,1476.99,2025-10-19,Myntra,UPI
+ORD10259,1181,Simran,M,40.0,36-45,0,Karnataka,Engineering,Furniture,Table,20794.91,2,0.2,41589.82,33271.86,2025-10-01,Flipkart,Credit Card
+ORD10233,1173,Pooja,M,40.0,36-45,0,West Bengal,Business,Furniture,Lamp,18531.91,1,0.2,18531.91,14825.53,2025-10-18,Myntra,UPI
+ORD10116,1143,Aditya,F,54.0,46-55,1,Tamil Nadu,Engineering,Books,Comics,2177.57,5,0.05,10887.85,10343.46,2025-11-10,Myntra,Cash
+ORD10121,1098,Simran,M,52.0,46-55,1,Bihar,Student,Grocery,Oil,2485.93,2,0.1,4971.86,4474.67,2025-10-10,Myntra,UPI
+ORD10350,1116,Rohan,F,50.0,46-55,1,Bihar,Engineering,Footwear,Sneakers,5828.46,5,0.2,29142.3,23313.84,2025-10-10,Amazon,Debit Card
+ORD10225,1008,Kavya,M,40.0,36-45,0,Maharashtra,Healthcare,Electronics,Speaker,48433.55,4,0.05,193734.2,184047.49,2025-10-04,Flipkart,UPI
+ORD10403,1125,Kavya,M,24.0,18-25,0,Uttar Pradesh,,Beauty,Perfume,4781.92,1,0.05,4781.92,4542.82,2025-10-28,Flipkart,Net Banking
+ORD10398,1187,Simran,F,25.0,26-35,0,West Bengal,Business,Beauty,Perfume,3145.46,1,0.3,3145.46,2201.82,2025-10-17,Amazon,UPI
+ORD10128,1010,Vivaan,M,37.0,36-45,1,Bihar,IT,Books,Exam Guide,511.41,3,0.1,1534.23,1380.81,2025-11-08,Flipkart,Debit Card
+ORD10286,1073,Rohan,F,59.0,56-60,0,Uttar Pradesh,Teacher,Clothing,Saree,3324.86,3,0.15,9974.58,8478.39,2025-11-15,Myntra,UPI
+ORD10412,1197,Sandeep,M,22.0,18-25,1,West Bengal,Homemaker,Decor,Diyas,2900.88,5,0.2,14504.4,11603.52,2025-10-05,Myntra,UPI
+ORD10108,1198,Sneha,M,19.0,18-25,1,Bihar,Government,Sports,Cricket Bat,4107.96,2,0.25,8215.92,6161.94,2025-11-13,Meesho,Credit Card
+ORD10371,1054,Priya,M,59.0,56-60,0,Delhi,Student,Clothing,Kurta,1773.11,2,0.25,3546.22,2659.66,2025-10-19,Myntra,UPI
+ORD10326,1160,Simran,M,27.0,26-35,1,Karnataka,Engineering,Sports,Football,5012.03,2,0.1,10024.06,9021.65,2025-10-15,Myntra,Cash
+ORD10134,1183,Vivaan,M,22.0,18-25,0,Rajasthan,Student,Food,Snacks,1300.98,5,0.1,6504.9,5854.41,2025-10-17,Amazon,UPI
+ORD10453,1070,Aarav,F,57.0,56-60,0,Maharashtra,Student,Beauty,Face Cream,380.95,2,0.3,761.9,533.33,2025-10-17,Myntra,UPI
+ORD10045,1036,Kavya,F,36.0,36-45,1,Bihar,Homemaker,Electronics,Smartphone,13265.29,3,0.05,39795.87,37806.08,2025-11-08,Offline Store,Debit Card
+ORD10461,1154,Pooja,F,40.0,36-45,1,Tamil Nadu,IT,Clothing,Shirt,2575.5,5,0.05,12877.5,12233.62,2025-11-07,Amazon,UPI
+ORD10066,1122,Meera,M,37.0,36-45,0,Maharashtra,Healthcare,Furniture,Bookshelf,2388.22,1,0.15,2388.22,2029.99,2025-10-13,Flipkart,Net Banking
+ORD10284,1043,Riya,F,22.0,18-25,0,Maharashtra,Finance,Clothing,Jeans,575.6,1,0.05,575.6,546.82,2025-10-09,Amazon,Credit Card
+ORD10086,1119,Sneha,M,59.0,56-60,1,Delhi,Teacher,Food,Sweets,2099.45,2,0.2,4198.9,3359.12,2025-10-15,Amazon,UPI
+ORD10243,1049,Anjali,F,18.0,18-25,0,Madhya Pradesh,Engineering,Books,Comics,1062.19,4,0.15,4248.76,3611.45,2025-10-23,Flipkart,Cash
+ORD10187,1062,Meera,M,33.0,26-35,1,Maharashtra,Student,Grocery,Oil,1702.73,1,0.3,1702.73,1191.91,2025-11-14,Offline Store,Credit Card
+ORD10384,1022,Simran,F,54.0,46-55,0,Maharashtra,Homemaker,Books,Novel,1619.53,1,0.15,1619.53,1376.6,2025-11-13,Meesho,Cash
+ORD10160,1057,Arjun,F,41.0,36-45,0,Madhya Pradesh,Business,Sports,Football,1265.71,2,0.25,2531.42,1898.56,2025-10-23,Flipkart,Debit Card
+ORD10013,1056,Priya,F,39.0,36-45,0,Tamil Nadu,Business,Grocery,Oil,1756.95,1,0.05,1756.95,1669.1,2025-11-05,Amazon,Credit Card
+ORD10036,1169,Aditya,M,43.0,36-45,1,Rajasthan,Healthcare,Grocery,Rice,1886.2,2,0.2,3772.4,3017.92,2025-11-08,Flipkart,UPI
+ORD10029,1111,Aarav,F,32.0,26-35,1,Bihar,Teacher,Furniture,Lamp,16064.99,2,0.05,32129.98,30523.48,2025-11-11,Offline Store,UPI
+ORD10171,1197,Shreya,M,36.0,36-45,0,Gujarat,Marketing,Footwear,Slippers,3381.2,3,0.1,10143.6,9129.24,2025-11-02,Meesho,Cash
+ORD10143,1149,Arjun,M,27.0,26-35,1,Rajasthan,Student,Beauty,Skincare Set,3918.24,1,0.25,3918.24,2938.68,2025-10-13,Myntra,Cash
+ORD10399,1046,Riya,M,54.0,46-55,1,Rajasthan,Teacher,Sports,Cricket Bat,7154.1,4,0.1,28616.4,25754.76,2025-11-10,Amazon,Debit Card
+ORD10343,1115,Vivaan,F,38.0,36-45,1,Uttar Pradesh,Teacher,Electronics,Smartphone,17685.27,3,0.1,53055.81,47750.23,2025-10-06,Myntra,Credit Card
+ORD10222,1013,Anjali,M,43.0,36-45,1,Delhi,Marketing,Furniture,Table,20068.37,4,0.05,80273.48,76259.81,2025-10-05,Meesho,Credit Card
+ORD10096,1080,Sandeep,M,31.0,26-35,1,Madhya Pradesh,IT,Beauty,Skincare Set,4855.14,3,0.25,14565.42,10924.06,2025-10-19,Amazon,Cash
+ORD10052,1148,Shreya,F,53.0,46-55,0,Maharashtra,Engineering,Sports,Badminton Set,9518.41,5,0.15,47592.05,40453.24,2025-10-04,Flipkart,Debit Card
+ORD10241,1178,Priya,F,49.0,46-55,0,Madhya Pradesh,IT,Decor,Cushion,4793.17,1,0.1,4793.17,4313.85,2025-10-11,Amazon,UPI
+ORD10485,1014,Riya,M,29.0,26-35,0,Karnataka,Healthcare,Furniture,Bookshelf,20324.19,4,0.05,81296.76,77231.92,2025-11-02,Meesho,UPI
+ORD10379,1159,Aditya,F,47.0,46-55,1,Delhi,Student,Grocery,Oil,1311.09,4,0.3,5244.36,3671.05,2025-10-04,Amazon,UPI
+ORD10179,1017,Rahul,F,39.0,36-45,1,Delhi,,Decor,Lights,3769.25,1,0.1,3769.25,3392.32,2025-11-09,Offline Store,UPI
+ORD10042,1055,Kavya,F,40.0,36-45,0,Madhya Pradesh,Government,Beauty,Face Cream,1499.57,2,0.1,2999.14,2699.23,2025-11-04,Amazon,Credit Card
+ORD10499,1109,Riya,F,59.0,56-60,0,Rajasthan,Business,Decor,Decorative Set,4887.13,2,0.2,9774.26,7819.41,2025-11-14,Flipkart,Net Banking
+ORD10422,1016,Riya,F,39.0,36-45,1,Gujarat,Government,Grocery,Oil,1665.46,5,0.15,8327.3,7078.2,2025-11-02,Offline Store,UPI
+ORD10207,1122,Rahul,F,54.0,46-55,0,West Bengal,Teacher,Clothing,Shirt,1308.84,5,0.1,6544.2,5889.78,2025-11-05,Amazon,Credit Card
+ORD10283,1170,Kavya,F,58.0,56-60,0,Uttar Pradesh,Student,Food,Snacks,1809.42,1,0.15,1809.42,1538.01,2025-11-07,Myntra,Net Banking
+ORD10255,1068,Rahul,F,58.0,56-60,1,Karnataka,Finance,Electronics,Smartphone,11338.08,2,0.15,22676.16,19274.74,2025-10-19,Offline Store,Debit Card
+ORD10413,1029,Anjali,F,45.0,36-45,0,Rajasthan,Finance,Decor,Decorative Set,160.47,3,0.05,481.41,457.34,2025-10-20,Flipkart,Debit Card
+ORD10005,1110,Aarav,F,26.0,26-35,1,Uttar Pradesh,IT,Clothing,Saree,5173.06,1,0.1,5173.06,4655.75,2025-10-18,Flipkart,Cash
+ORD10257,1136,Karan,M,46.0,46-55,1,Madhya Pradesh,Business,Decor,Lights,4455.55,2,0.05,8911.1,8465.54,2025-10-12,Flipkart,Cash
+ORD10449,1009,Priya,F,19.0,18-25,1,Rajasthan,Healthcare,Food,Snacks,258.72,1,0.1,258.72,232.85,2025-10-25,Flipkart,Credit Card
+ORD10101,1124,Amit,F,59.0,56-60,0,Gujarat,Teacher,Clothing,Jeans,3427.35,5,0.05,17136.75,16279.91,2025-11-05,Myntra,Cash
+ORD10227,1069,Sneha,F,23.0,18-25,0,Madhya Pradesh,IT,Decor,Diyas,407.18,2,0.15,814.36,692.21,2025-10-29,Myntra,UPI
+ORD10430,1031,Sandeep,F,56.0,56-60,1,Maharashtra,Marketing,Clothing,Lehenga,2845.75,1,0.05,2845.75,2703.46,2025-10-11,Offline Store,Net Banking
+ORD10214,1070,Arjun,M,49.0,46-55,0,Gujarat,Government,Electronics,Smartphone,56997.62,2,0.3,113995.24,79796.67,2025-10-17,Flipkart,Debit Card
+ORD10172,1055,Karan,M,25.0,26-35,1,Gujarat,Healthcare,Clothing,Jeans,4860.7,4,0.1,19442.8,17498.52,2025-10-01,Flipkart,Cash
+ORD10099,1161,Meera,F,22.0,18-25,1,Bihar,Student,Clothing,Saree,716.39,3,0.15,2149.17,,2025-10-18,Flipkart,UPI
+ORD10293,1195,Karan,M,33.0,26-35,1,Bihar,Government,Grocery,Spices,1724.66,1,0.1,1724.66,1552.19,2025-10-30,Offline Store,UPI
+ORD10216,1081,Meera,M,34.0,26-35,0,Rajasthan,Finance,Electronics,Speaker,29112.52,1,0.0,29112.52,29112.52,2025-11-05,Flipkart,UPI
+ORD10062,1177,Aditya,M,47.0,46-55,0,Maharashtra,Business,Electronics,Smartphone,20845.86,4,0.2,83383.44,66706.75,2025-11-03,Myntra,UPI
+ORD10048,1004,Pooja,F,60.0,56-60,1,Rajasthan,Healthcare,Furniture,Table,16203.48,1,0.05,16203.48,15393.31,2025-10-23,Myntra,Cash
+ORD10033,1190,Kavya,F,57.0,56-60,0,Bihar,Business,Clothing,Saree,5710.06,4,0.25,22840.24,17130.18,2025-11-03,Meesho,UPI
+ORD10268,1058,Aarav,F,31.0,26-35,1,Bihar,Marketing,,Sneakers,566.28,4,0.05,2265.12,2151.86,2025-11-15,Offline Store,Credit Card
+ORD10328,1127,Vivaan,F,41.0,36-45,1,Karnataka,Teacher,Footwear,Sandals,5739.56,2,0.1,11479.12,10331.21,2025-11-13,Amazon,UPI
+ORD10201,1153,Rohan,F,48.0,46-55,1,Maharashtra,Business,Footwear,Boots,3035.83,5,0.05,15179.15,14420.19,2025-11-11,Amazon,Cash
+ORD10447,1035,Rahul,F,39.0,36-45,1,Uttar Pradesh,IT,Decor,Diyas,3017.3,5,0.15,15086.5,12823.52,2025-11-03,Amazon,Debit Card
+ORD10028,1053,Amit,M,19.0,18-25,1,Rajasthan,Teacher,Beauty,Perfume,1314.62,1,0.1,1314.62,1183.16,2025-10-28,Amazon,UPI
+ORD10425,1021,Amit,F,48.0,46-55,1,West Bengal,Business,Clothing,Jeans,4346.37,3,0.15,13039.11,11083.24,2025-11-14,Offline Store,Net Banking
+ORD10231,1101,Riya,M,34.0,26-35,1,Delhi,Healthcare,Grocery,Coffee,1976.38,4,0.3,7905.52,5533.86,2025-10-14,Amazon,Debit Card
+ORD10261,1164,Anjali,M,55.0,46-55,1,Tamil Nadu,Healthcare,Footwear,Formal Shoes,6226.05,4,0.25,24904.2,18678.15,2025-11-14,Flipkart,Credit Card
+ORD10289,1038,Riya,M,55.0,46-55,1,Karnataka,Healthcare,Electronics,Smartwatch,25170.59,2,0.1,50341.18,45307.06,2025-10-18,Offline Store,Credit Card
+ORD10163,1160,Priya,F,32.0,26-35,1,West Bengal,Student,Footwear,Slippers,2480.25,3,0.1,7440.75,6696.68,2025-10-25,Offline Store,UPI
+ORD10426,1194,Kavya,M,58.0,56-60,1,Rajasthan,Teacher,Furniture,Bookshelf,22887.03,4,0.15,91548.12,77815.9,2025-11-04,Offline Store,Cash
+ORD10139,1088,Pooja,M,40.0,36-45,1,Uttar Pradesh,Government,Food,Sweets,1220.41,1,0.15,1220.41,1037.35,2025-11-12,Offline Store,UPI
+ORD10063,1073,Anjali,M,32.0,26-35,1,Tamil Nadu,Student,Grocery,Oil,660.66,1,0.1,660.66,594.59,2025-10-24,Offline Store,Credit Card
+ORD10136,1196,Vivaan,M,43.0,36-45,1,Gujarat,Finance,Food,Dry Fruits,1689.08,5,0.2,8445.4,6756.32,2025-10-31,Amazon,UPI
+ORD10129,1141,Vivaan,M,42.0,36-45,0,Madhya Pradesh,Business,Clothing,Lehenga,2246.42,3,0.1,6739.26,6065.33,2025-10-14,Meesho,UPI
+ORD10477,1183,Sneha,F,20.0,18-25,1,Delhi,Healthcare,Clothing,Jeans,4559.93,4,0.2,18239.72,14591.78,2025-10-30,Flipkart,UPI
+ORD10009,1074,Meera,M,34.0,26-35,1,Maharashtra,Teacher,Furniture,Lamp,17743.4,5,0.05,88717.0,84281.15,2025-10-25,Offline Store,Credit Card
+ORD10327,1093,Sandeep,M,25.0,26-35,0,Bihar,Student,Furniture,Sofa,7680.84,3,0.1,23042.52,20738.27,2025-10-30,Amazon,Debit Card
+ORD10464,1010,Vikash,F,56.0,56-60,1,Karnataka,IT,Furniture,Chair,9034.94,4,0.15,36139.76,30718.8,2025-10-20,Amazon,Net Banking
+ORD10065,1107,Vivaan,M,27.0,26-35,0,Tamil Nadu,Finance,Electronics,Laptop,50431.72,5,0.2,252158.6,201726.88,2025-10-16,Flipkart,UPI
+ORD10301,1131,Priya,M,32.0,26-35,0,Gujarat,Healthcare,Clothing,Lehenga,1508.93,2,0.1,3017.86,2716.07,2025-11-12,Offline Store,Credit Card
+ORD10015,1003,Anjali,F,24.0,18-25,1,Maharashtra,Homemaker,Electronics,Speaker,4678.14,3,0.1,14034.42,12630.98,2025-10-03,Flipkart,Cash
+ORD10157,1124,Priya,F,31.0,26-35,1,Karnataka,Engineering,Footwear,Slippers,3674.7,3,0.15,11024.1,9370.48,2025-10-28,Flipkart,Debit Card
+ORD10041,1179,Arjun,M,55.0,46-55,1,West Bengal,Finance,Clothing,Saree,3439.51,1,0.1,3439.51,3095.56,2025-10-24,Flipkart,UPI
+ORD10380,1017,Riya,F,41.0,36-45,0,Gujarat,IT,Electronics,Headphones,26627.33,2,0.1,53254.66,47929.19,2025-11-06,Meesho,UPI
+ORD10469,1045,Kavya,M,54.0,46-55,1,Bihar,Healthcare,Electronics,Speaker,52720.22,2,0.05,105440.44,100168.42,2025-11-06,Offline Store,Cash
+ORD10404,1004,Aarav,M,43.0,36-45,0,Delhi,Marketing,Grocery,Coffee,490.39,1,0.15,490.39,416.83,2025-11-12,Amazon,Credit Card
+ORD10217,1114,Priya,F,33.0,26-35,1,Karnataka,Healthcare,Food,Snacks,189.29,5,0.25,946.45,709.84,2025-11-09,Offline Store,UPI
+ORD10280,1028,Aarav,M,42.0,36-45,1,Uttar Pradesh,Engineering,Grocery,Spices,586.32,4,0.2,2345.28,1876.22,2025-10-07,Meesho,UPI
+ORD10435,1183,Meera,M,37.0,36-45,1,Tamil Nadu,Government,Clothing,Shirt,5374.59,1,0.05,5374.59,5105.86,2025-10-03,Myntra,Credit Card
+ORD10431,1109,Karan,M,26.0,26-35,0,Delhi,Engineering,Clothing,Jeans,2482.07,4,0.15,9928.28,8439.04,2025-10-07,Flipkart,Debit Card
+ORD10338,1145,Vikash,F,19.0,18-25,0,Maharashtra,Student,Footwear,Sneakers,5498.61,5,0.05,27493.05,26118.4,2025-11-14,Myntra,Credit Card
+ORD10237,1016,Anjali,M,45.0,36-45,0,Rajasthan,Student,Electronics,Headphones,31622.9,1,0.1,31622.9,28460.61,2025-10-18,Meesho,Cash
+ORD10208,1059,Anjali,M,30.0,26-35,0,Rajasthan,Business,Footwear,Slippers,6966.06,1,0.3,6966.06,4876.24,2025-10-19,Offline Store,UPI
+ORD10213,1005,Meera,F,56.0,56-60,1,Tamil Nadu,Teacher,Footwear,Boots,3425.88,5,0.2,17129.4,13703.52,2025-10-07,Myntra,Debit Card
+ORD10296,1137,Anjali,F,60.0,56-60,1,Delhi,Homemaker,Furniture,Lamp,9056.17,4,0.15,36224.68,30790.98,2025-10-20,Myntra,UPI
+ORD10458,1123,Amit,M,33.0,26-35,0,Bihar,Homemaker,Beauty,Perfume,4786.15,3,0.2,14358.45,11486.76,2025-10-27,Amazon,UPI
+ORD10252,1071,Meera,F,46.0,46-55,0,Delhi,Finance,Food,Snacks,2869.06,1,0.0,2869.06,2869.06,2025-11-04,Offline Store,Cash
+ORD10489,1126,Vikash,M,57.0,56-60,1,Maharashtra,IT,Decor,Lights,2926.36,3,0.2,8779.08,7023.26,2025-11-03,Offline Store,Net Banking
+ORD10487,1149,Rohan,F,25.0,26-35,0,Gujarat,IT,Clothing,Kurta,3929.36,3,0.05,11788.08,11198.68,2025-11-07,Myntra,Credit Card
+ORD10304,1122,Priya,F,28.0,26-35,0,Maharashtra,IT,Footwear,Formal Shoes,5063.79,4,0.15,20255.16,17216.89,2025-10-31,Meesho,Net Banking
+ORD10351,1112,Sneha,F,60.0,56-60,1,Maharashtra,Student,Beauty,Hair Care,3001.3,2,0.15,6002.6,5102.21,2025-10-03,Flipkart,Net Banking
+ORD10270,1148,Arjun,F,42.0,36-45,0,Rajasthan,Finance,Electronics,Smartwatch,24396.67,3,0.2,73190.01,58552.01,2025-10-27,Flipkart,UPI
+ORD10202,1188,Sneha,F,47.0,46-55,1,Madhya Pradesh,Government,Clothing,Shirt,926.88,1,0.1,926.88,834.19,2025-10-20,Meesho,Debit Card
+ORD10162,1184,Priya,M,53.0,46-55,1,Madhya Pradesh,Student,Footwear,Sandals,5975.61,4,0.05,23902.44,22707.32,2025-11-07,Flipkart,Net Banking
+ORD10044,1182,Neha,M,54.0,46-55,1,West Bengal,Homemaker,Books,Biography,721.45,3,0.25,2164.35,1623.26,2025-11-11,Flipkart,UPI
+ORD10218,1019,Kavya,F,52.0,46-55,1,West Bengal,Government,Sports,Cricket Bat,3148.22,1,0.2,3148.22,2518.58,2025-11-14,Offline Store,Cash
+ORD10402,1047,Simran,M,59.0,56-60,1,Madhya Pradesh,Homemaker,Books,Comics,1091.65,1,0.1,1091.65,982.49,2025-10-02,Flipkart,Credit Card
+ORD10191,1001,Amit,F,58.0,56-60,0,Madhya Pradesh,Healthcare,Clothing,Jeans,5727.92,2,0.15,11455.84,9737.46,2025-10-06,Meesho,UPI
+ORD10310,1156,Neha,M,49.0,46-55,1,Rajasthan,Homemaker,Electronics,Smartwatch,38546.08,1,0.15,38546.08,32764.17,2025-10-24,Offline Store,Credit Card
+ORD10260,1057,Sandeep,M,54.0,46-55,0,Karnataka,Business,Clothing,Kurta,3747.37,4,0.15,14989.48,12741.06,2025-10-21,Offline Store,Cash
+ORD10106,1089,Anjali,F,24.0,18-25,1,Karnataka,Finance,Electronics,Smartwatch,52265.14,1,0.05,52265.14,49651.88,2025-11-13,Myntra,Net Banking
+ORD10054,1098,Sneha,M,55.0,46-55,0,Uttar Pradesh,IT,Books,Exam Guide,2028.63,4,0.25,8114.52,6085.89,2025-10-23,Meesho,Cash
+ORD10390,1104,Neha,M,40.0,36-45,0,Delhi,IT,Grocery,Coffee,1659.49,5,0.25,8297.45,6223.09,2025-10-14,Offline Store,Credit Card
+ORD10002,1109,Rahul,M,47.0,46-55,0,Uttar Pradesh,Healthcare,Decor,Decorative Set,3105.73,2,0.05,6211.46,5900.89,2025-10-12,Amazon,Cash
+ORD10442,1042,Aarav,M,28.0,26-35,1,Madhya Pradesh,IT,Decor,Wall Art,4801.41,4,0.05,19205.64,18245.36,2025-10-02,Amazon,Credit Card
+ORD10483,1019,Vivaan,M,22.0,18-25,1,Rajasthan,Marketing,Beauty,Face Cream,3616.53,1,0.25,3616.53,2712.4,2025-10-18,Offline Store,UPI
+ORD10050,1053,Vikash,F,29.0,26-35,1,Karnataka,Homemaker,Electronics,Speaker,16557.34,3,0.15,49672.02,42221.22,2025-10-04,Offline Store,Credit Card
+ORD10420,1014,Pooja,M,43.0,36-45,0,Delhi,Government,Sports,Cricket Bat,6650.85,3,0.3,19952.55,13966.78,2025-10-13,Offline Store,UPI
+ORD10081,1060,Aditya,M,41.0,36-45,1,West Bengal,IT,Books,Comics,191.98,5,0.05,959.9,911.9,2025-10-31,Amazon,Cash
+ORD10206,1174,Priya,M,44.0,36-45,0,Maharashtra,Teacher,Clothing,Shirt,3425.52,5,0.1,17127.6,15414.84,2025-10-02,Meesho,UPI
+ORD10035,1182,Aarav,F,53.0,46-55,1,Gujarat,Student,Decor,Wall Art,2309.11,5,0.3,11545.55,8081.88,2025-10-01,Offline Store,Credit Card
+ORD10264,1102,Meera,M,54.0,46-55,1,Bihar,IT,Beauty,Skincare Set,4756.2,1,0.05,4756.2,4518.39,2025-11-01,Offline Store,UPI
+ORD10428,1089,Riya,F,60.0,56-60,1,Delhi,Engineering,Books,Novel,611.29,5,0.15,3056.45,2597.98,2025-10-05,Amazon,Cash
+ORD10367,1150,Riya,F,37.0,36-45,1,Tamil Nadu,Finance,Decor,Diyas,1133.34,3,0.25,3400.02,2550.02,2025-10-10,Flipkart,UPI
+ORD10092,1066,Anjali,F,51.0,46-55,1,Tamil Nadu,Finance,Sports,Football,8736.8,1,0.1,8736.8,7863.12,2025-10-15,Amazon,UPI
+ORD10340,1098,Riya,M,28.0,26-35,0,Uttar Pradesh,Engineering,Clothing,Kurta,2909.98,1,0.2,2909.98,2327.98,2025-11-13,Offline Store,UPI
+ORD10474,1090,Neha,M,43.0,36-45,1,Bihar,Finance,Books,Comics,588.09,1,0.05,588.09,558.69,2025-10-18,Myntra,Debit Card
+ORD10053,1129,Priya,F,34.0,26-35,1,Delhi,Finance,Decor,Lights,2423.76,1,0.0,2423.76,2423.76,2025-10-07,Flipkart,UPI
+ORD10346,1114,Arjun,M,25.0,26-35,0,Gujarat,Marketing,Footwear,Sandals,6945.19,1,0.25,6945.19,5208.89,2025-10-03,Flipkart,Credit Card
+ORD10265,1167,Rohan,F,49.0,46-55,1,West Bengal,Engineering,Books,Novel,1204.71,2,0.15,2409.42,2048.01,2025-11-08,Myntra,Credit Card
+ORD10242,1138,Pooja,M,42.0,36-45,1,Gujarat,Marketing,Decor,Wall Art,3655.57,2,0.25,7311.14,5483.36,2025-11-04,Offline Store,Credit Card
+ORD10014,1047,Neha,F,32.0,26-35,0,Gujarat,Healthcare,Electronics,Smartphone,5986.5,3,0.05,17959.5,17061.52,2025-11-06,Meesho,Credit Card
+ORD10316,1197,Sandeep,M,20.0,18-25,0,Delhi,Healthcare,Footwear,Sneakers,5431.2,3,0.0,16293.6,16293.6,2025-11-11,Myntra,Debit Card
+ORD10089,1173,Amit,F,53.0,46-55,1,Delhi,Healthcare,Books,Programming Book,1596.99,3,0.3,4790.97,3353.68,2025-10-16,Amazon,Credit Card
+ORD10388,1148,Kavya,F,53.0,46-55,0,Karnataka,Business,Electronics,Speaker,54115.58,1,0.1,54115.58,48704.02,2025-10-04,Flipkart,Net Banking
+ORD10274,1024,Kavya,F,46.0,46-55,1,Gujarat,Homemaker,Books,Biography,1995.38,5,0.05,9976.9,9478.05,2025-10-29,Myntra,Credit Card
+ORD10167,1112,Vivaan,M,39.0,36-45,1,Delhi,Government,Food,Sweets,1505.62,5,0.05,7528.1,7151.7,2025-10-18,Amazon,Credit Card
+ORD10329,1145,Aarav,M,40.0,36-45,0,Madhya Pradesh,Government,Food,Sweets,1565.98,3,0.0,4697.94,4697.94,2025-10-17,Myntra,Net Banking
+ORD10493,1083,Aditya,F,30.0,26-35,1,Tamil Nadu,Healthcare,Electronics,Smartphone,33292.16,2,0.15,66584.32,56596.67,2025-10-13,Meesho,Debit Card
+ORD10135,1181,Kavya,M,38.0,36-45,0,Uttar Pradesh,Finance,Decor,Lights,3436.78,5,0.05,17183.9,16324.7,2025-10-05,Meesho,UPI
+ORD10307,1036,Sandeep,F,43.0,36-45,1,Tamil Nadu,Homemaker,Beauty,Perfume,1439.51,3,0.1,4318.53,3886.68,2025-11-07,Amazon,UPI
+ORD10481,1119,Neha,M,52.0,46-55,1,Rajasthan,Government,Footwear,Formal Shoes,5048.61,2,0.15,10097.22,8582.64,2025-11-11,Amazon,UPI
+ORD10320,1150,Kavya,F,57.0,56-60,1,Maharashtra,Business,Electronics,Smartwatch,45119.87,4,0.1,180479.48,162431.53,2025-11-07,Flipkart,Credit Card
+ORD10244,1054,Aarav,F,58.0,56-60,1,Tamil Nadu,Student,Food,Sweets,2101.28,2,0.0,4202.56,4202.56,2025-10-17,Offline Store,Credit Card
+ORD10055,1083,Amit,F,33.0,26-35,1,Karnataka,Teacher,Furniture,Table,17573.45,1,0.05,17573.45,16694.78,2025-10-02,Meesho,UPI
+ORD10364,1171,Pooja,F,51.0,46-55,0,Gujarat,Homemaker,Furniture,Table,2033.26,5,0.1,10166.3,9149.67,2025-10-19,Offline Store,UPI
+ORD10051,1115,Priya,M,53.0,46-55,0,Uttar Pradesh,Government,Decor,Lights,914.79,3,0.05,2744.37,2607.15,2025-10-09,Flipkart,UPI
+ORD10457,1035,Kavya,M,51.0,46-55,1,Rajasthan,Student,Clothing,Shirt,3991.99,3,0.1,11975.97,10778.37,2025-10-23,Meesho,UPI
+ORD10175,1158,Pooja,M,38.0,36-45,1,Tamil Nadu,Government,Footwear,Slippers,5282.22,1,0.1,5282.22,4754.0,2025-11-11,Amazon,UPI
+ORD10446,1038,Neha,F,42.0,36-45,0,Uttar Pradesh,Student,Decor,Lights,2259.26,5,0.0,11296.3,11296.3,2025-10-20,Offline Store,Debit Card
+ORD10190,1055,Vikash,M,21.0,18-25,0,Delhi,Teacher,Electronics,Smartwatch,27269.52,1,0.2,27269.52,21815.62,2025-10-23,Myntra,UPI
+ORD10497,1151,Riya,M,30.0,26-35,1,Gujarat,Student,Furniture,Bookshelf,4551.0,3,0.2,13653.0,10922.4,2025-10-28,Myntra,UPI
+ORD10188,1189,Karan,F,50.0,46-55,1,Gujarat,IT,Furniture,Bookshelf,2527.38,4,0.05,10109.52,9604.04,2025-11-03,Flipkart,Net Banking
+ORD10170,1131,Amit,M,42.0,36-45,0,Delhi,Teacher,Furniture,Table,19017.51,1,0.0,19017.51,19017.51,2025-10-19,Offline Store,UPI
+ORD10059,1168,Sneha,F,60.0,56-60,1,Bihar,Teacher,Clothing,Jeans,1163.12,2,0.25,2326.24,1744.68,2025-10-31,Amazon,UPI
+ORD10049,1165,Rohan,F,34.0,26-35,0,Tamil Nadu,Teacher,Furniture,Bookshelf,20561.31,1,0.1,20561.31,18505.18,2025-10-22,Amazon,UPI
+ORD10345,1186,Aditya,M,36.0,36-45,0,Uttar Pradesh,Homemaker,Food,Gift Box,129.83,1,0.2,129.83,103.86,2025-11-01,Offline Store,UPI
+ORD10236,1017,Sneha,F,55.0,46-55,0,Madhya Pradesh,Business,Sports,Sports Shoes,9514.04,3,0.15,28542.12,24260.8,2025-10-12,Amazon,UPI
+ORD10253,1173,Simran,M,35.0,26-35,1,Maharashtra,Business,Grocery,Rice,1166.48,2,0.1,2332.96,2099.66,2025-10-22,Amazon,UPI
+ORD10022,1113,Sneha,M,37.0,36-45,1,Rajasthan,Student,Clothing,Saree,2280.24,3,0.05,6840.72,6498.68,2025-10-14,Amazon,Cash
+ORD10314,1195,Pooja,M,27.0,26-35,1,Uttar Pradesh,Finance,Decor,Cushion,1700.53,3,0.2,5101.59,4081.27,2025-10-31,Amazon,Credit Card
+ORD10460,1070,Karan,F,29.0,26-35,0,Karnataka,Homemaker,Clothing,Saree,1421.62,5,0.1,7108.1,6397.29,2025-10-06,Myntra,UPI
+ORD10161,1135,Aditya,M,39.0,36-45,1,Tamil Nadu,Teacher,Food,Dry Fruits,2874.18,4,0.0,11496.72,11496.72,2025-10-20,Offline Store,UPI
+ORD10277,1020,Karan,M,55.0,46-55,1,Bihar,Finance,Grocery,Oil,1548.73,3,0.0,4646.19,4646.19,2025-10-08,Offline Store,Debit Card
+ORD10444,1079,Rohan,M,32.0,26-35,1,West Bengal,Marketing,Food,Chocolates,426.51,2,0.1,853.02,767.72,2025-11-10,Offline Store,Credit Card
+ORD10192,1124,Sandeep,F,36.0,36-45,0,Uttar Pradesh,Finance,Books,Novel,243.45,2,0.25,486.9,365.17,2025-10-13,Meesho,Cash
+ORD10386,1194,Anjali,F,31.0,26-35,1,West Bengal,Marketing,Grocery,Tea,1415.55,3,0.15,4246.65,3609.65,2025-11-09,Offline Store,Debit Card
+ORD10294,1108,Kavya,M,23.0,18-25,1,Uttar Pradesh,Homemaker,Food,Gift Box,579.33,5,0.2,2896.65,2317.32,2025-10-04,Flipkart,UPI
+ORD10414,1179,Aditya,M,21.0,18-25,1,Delhi,Engineering,Furniture,Lamp,10186.82,2,0.05,20373.64,19354.96,2025-11-08,Flipkart,Credit Card
+ORD10344,1115,Simran,F,54.0,46-55,0,Bihar,Homemaker,Beauty,Makeup Kit,1123.09,4,0.2,4492.36,3593.89,2025-11-06,Offline Store,Debit Card
+ORD10258,1027,Amit,M,41.0,36-45,1,Gujarat,Marketing,Footwear,Sandals,6609.18,5,0.15,33045.9,28089.02,2025-10-20,Amazon,Credit Card
+ORD10309,1062,Meera,M,35.0,26-35,1,Delhi,Teacher,Grocery,Oil,420.76,3,0.2,1262.28,1009.82,2025-10-15,Offline Store,UPI
+ORD10150,1155,Vivaan,M,56.0,56-60,1,Bihar,Business,Electronics,Headphones,39796.06,1,0.15,39796.06,33826.65,2025-10-10,Myntra,Net Banking
+ORD10131,1089,Vivaan,M,27.0,26-35,1,Gujarat,Engineering,Food,Snacks,1220.74,5,0.2,6103.7,4882.96,2025-10-30,Offline Store,Credit Card
+ORD10152,1020,Sandeep,F,21.0,18-25,1,Karnataka,Teacher,Electronics,Smartwatch,59783.73,4,0.1,239134.92,215221.43,2025-10-06,Flipkart,UPI
+ORD10360,1147,Simran,F,52.0,46-55,0,Gujarat,Marketing,Furniture,Lamp,19565.73,4,0.15,78262.92,66523.48,2025-11-08,Flipkart,Cash
+ORD10100,1050,Vikash,M,42.0,36-45,1,Maharashtra,Government,Clothing,Saree,5808.15,3,0.0,17424.45,17424.45,2025-10-14,Flipkart,Cash
+ORD10373,1120,Arjun,F,34.0,26-35,1,Bihar,Teacher,Clothing,Jeans,2843.67,3,0.2,8531.01,6824.81,2025-10-24,Offline Store,Credit Card
+ORD10088,1188,Sandeep,M,58.0,56-60,1,West Bengal,Engineering,Footwear,Slippers,4343.34,2,0.15,8686.68,7383.68,2025-10-28,Myntra,Cash
+ORD10459,1108,Anjali,F,24.0,18-25,1,West Bengal,Finance,Clothing,Shirt,579.1,3,0.25,1737.3,1302.97,2025-11-15,Offline Store,Credit Card
+ORD10331,1082,Pooja,F,43.0,36-45,1,Rajasthan,Finance,Food,Gift Box,2969.41,1,0.25,2969.41,2227.06,2025-10-07,Flipkart,UPI
+ORD10215,1179,Neha,M,34.0,26-35,1,Bihar,Government,Sports,Badminton Set,5357.12,1,0.1,5357.12,4821.41,2025-11-08,Flipkart,Cash
+ORD10467,1057,Vivaan,M,54.0,46-55,0,Gujarat,Engineering,Electronics,Smartphone,5754.27,1,0.05,5754.27,5466.56,2025-10-29,Offline Store,UPI
+ORD10122,1190,Riya,M,59.0,56-60,0,Gujarat,Business,Books,Programming Book,1642.16,1,0.05,1642.16,1560.05,2025-11-07,Offline Store,Credit Card
+ORD10500,1171,Anjali,F,27.0,26-35,0,Delhi,Teacher,Decor,Decorative Set,1727.65,1,0.2,1727.65,1382.12,2025-10-20,Amazon,UPI
+ORD10021,1079,Priya,F,19.0,18-25,0,Karnataka,Teacher,Footwear,Sneakers,3638.94,3,0.2,10916.82,8733.46,2025-11-10,Offline Store,UPI
+ORD10189,1105,Shreya,F,32.0,26-35,1,Gujarat,Student,Furniture,Bookshelf,17666.81,4,0.25,70667.24,53000.43,2025-10-21,Meesho,Credit Card
+ORD10072,1023,Sandeep,M,48.0,46-55,0,West Bengal,Healthcare,Electronics,Laptop,10357.7,3,0.25,31073.1,23304.82,2025-11-13,Offline Store,Debit Card
+ORD10107,1172,Rohan,M,52.0,46-55,1,Tamil Nadu,Healthcare,Food,Chocolates,1690.65,1,0.1,1690.65,1521.58,2025-10-07,Meesho,Credit Card
+ORD10271,1179,Kavya,M,36.0,36-45,0,Uttar Pradesh,IT,Grocery,Rice,2012.04,3,0.2,6036.12,4828.9,2025-10-28,Amazon,UPI
+ORD10349,1089,Vivaan,M,18.0,18-25,0,Madhya Pradesh,Business,Food,Sweets,2697.13,4,0.1,10788.52,9709.67,2025-10-22,Myntra,Cash
+ORD10436,1075,Simran,F,35.0,26-35,0,Delhi,Marketing,Footwear,Slippers,1765.0,3,0.1,5295.0,4765.5,2025-10-08,Myntra,UPI
+ORD10103,1001,Shreya,F,50.0,46-55,1,Karnataka,Engineering,Food,Dry Fruits,188.12,1,0.15,188.12,159.9,2025-10-20,Amazon,Credit Card
