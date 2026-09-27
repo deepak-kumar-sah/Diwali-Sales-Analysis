@@ -4,7 +4,7 @@
 
 This project analyzes Diwali sales data to understand customer purchasing behavior, sales patterns, and product performance.
 
-The analysis was performed using Python and popular data analysis and visualization libraries. The project includes data cleaning, exploratory data analysis (EDA), visualization, and business insights.
+The analysis was performed using Python and popular data analysis and visualization libraries. The project includes data cleaning, exploratory data analysis (EDA), data aggregation, visualization, and business insights.
 
 ## 🎯 Objectives
 
@@ -30,19 +30,19 @@ The analysis was performed using Python and popular data analysis and visualizat
 Diwali-Sales-Analysis/
 │
 ├── dataset/
-│   └── diwali_sales_data.csv
-│
-├── notebook/
-│   └── diwali_sales_analysis.ipynb
+│   └── diwali_sales_500_rows.csv
 │
 ├── images/
+│   ├── age_group_sales.png
+│   ├── payment_sales.png
+│   ├── platform_sales.png
 │   ├── sales_by_gender.png
-│   ├── sales_by_age_group.png
-│   ├── sales_by_state.png
-│   ├── sales_by_occupation.png
-│   ├── sales_by_category.png
-│   ├── sales_by_platform.png
-│   └── sales_by_payment_method.png
+│   ├── top_categories.png
+│   ├── top_occupations.png
+│   └── top_states.png
+│
+├── notebooks/
+│   └── Diwali_Sales_Analysis.ipynb
 │
 ├── README.md
 └── requirements.txt
@@ -62,10 +62,10 @@ The project includes the following analyses:
 
 ## 📊 Key Business Insights
 
-* Customers aged **26-35** generated the highest total sales among the analyzed age groups.
+* Customers aged **26–35** generated the highest total sales among the analyzed age groups.
 * **Bihar** generated the highest total sales among the analyzed states.
 * **Healthcare** was the highest-selling occupation segment.
-* **Smartwatch** generated the highest sales among the top analyzed product categories.
+* **Smartwatch** generated the highest sales among the analyzed product categories.
 * **Amazon** generated the highest sales among the analyzed platforms, closely followed by Flipkart.
 * **UPI** was the highest-selling payment method by total sales.
 
@@ -77,27 +77,27 @@ The project includes the following analyses:
 
 ### Sales by Age Group
 
-![Sales by Age Group](images/sales_by_age_group.png)
-
-### Sales by State
-
-![Sales by State](images/sales_by_state.png)
-
-### Sales by Occupation
-
-![Sales by Occupation](images/sales_by_occupation.png)
-
-### Sales by Product Category
-
-![Sales by Category](images/sales_by_category.png)
+![Sales by Age Group](images/age_group_sales.png)
 
 ### Sales by Platform
 
-![Sales by Platform](images/sales_by_platform.png)
+![Sales by Platform](images/platform_sales.png)
 
-### Sales by Payment Method
+### Top Categories
 
-![Sales by Payment Method](images/sales_by_payment_method.png)
+![Top Categories](images/top_categories.png)
+
+### Top Occupations
+
+![Top Occupations](images/top_occupations.png)
+
+### Top States
+
+![Top States](images/top_states.png)
+
+### Payment Sales
+
+![Payment Sales](images/payment_sales.png)
 
 ## ▶️ How to Run
 
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 Open:
 
 ```text
-notebook/diwali_sales_analysis.ipynb
+notebooks/Diwali_Sales_Analysis.ipynb
 ```
 
 Run the notebook cells to reproduce the analysis.
